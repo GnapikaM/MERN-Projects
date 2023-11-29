@@ -17,13 +17,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json({ limit: "50mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "50mb", extended: true }));
-app.use(cors(
-  {
-    origin: ["https://deploy-mern-1whq.vercel.app"],
-    methods: ["POST", "GET"],
-    credentials: true
-  }  
-));
+app.use(cors());
 
 app.use("/", postRoutes);
 app.use("/user", userRoutes);

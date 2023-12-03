@@ -61,6 +61,10 @@ const post = ({ post, setCurrentId }) => {
     setShowFullMessage(!showFullMessage);
   };
 
+  // const handleUpdateDeleteBtnVisibility = () => {
+  //   setButtonsUDVisible(!buttonsUDVisible);
+  // };
+
   const handleUpdateDeleteBtnVisibility = () => {
     if (user?.result?._id === post?.creator) {
       setButtonsUDVisible(!buttonsUDVisible);

@@ -1,16 +1,18 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
+import React, { useEffect } from "react";
+import { Routes, Route, useNavigate } from "react-router-dom";
 
-import Home from "./components/NavLinks/Home";
-import About from "./components/NavLinks/About";
-import AllPosts from "./components/NavLinks/AllPosts";
-import NewPost from "./components/NavLinks/NewPost";
-import PopularPosts from "./components/Single_components/PopularPosts";
+import Home from "./components/NavLinks/Home/Home";
+import About from "./components/NavLinks/About/About";
+import AllPosts from "./components/NavLinks/AllPosts/AllPosts";
+import NewPost from "./components/NavLinks/NewPost/NewPost";
+import ContactUs from "./components/NavLinks/ContactUs/ContactUs";
+import PopularPosts from "./components/NavLinks/Home/sections/PopularPosts";
 import Auth from "./components/Auth/Auth";
-import ContactUs from "./components/NavLinks/ContactUs";
 
 const PostRoutes = ({ currentId, setCurrentId, user }) => {
+
   return (
+
     <Routes>
       <Route path="/" element={<Home setCurrentId={setCurrentId} />} />
       <Route path="/about" element={<About />} />

@@ -11,7 +11,7 @@ const PopularPosts = ({ setCurrentId }) => {
     dispatch(getPosts());
   }, [dispatch]);
 
-  const popularPosts = posts.filter((post) => post.likeCount > 10);
+  const popularPosts = posts.filter((post) => post.likes.length > 10);
 
   return ( 
     <div className="flex flex-col justify-center items-center my-10">

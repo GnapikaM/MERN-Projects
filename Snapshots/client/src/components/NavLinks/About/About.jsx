@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { joinTeam, mainImage, team1, team2, team3 } from "../../../assets/images";
 
 const About = () => {
-  const user = useState(JSON.parse(localStorage.getItem("profile")));
+  const user = JSON.parse(localStorage.getItem("profile"));
 
   return (
     <div className="container mx-auto p-8 bg-gray-100 mt-14">

@@ -8,7 +8,6 @@ import { categoryOptions } from "../../../constants";
 
 const NewPost = ({ currentId, setCurrentId }) => {
   const [notification, setNotification] = useState(false);
-  const [isFocused, setIsFocused] = useState(false);
   const [category, setCategory] = useState("");
   const [notificationMessage, setNotificationMessage] = useState("");
   const [postData, setPostData] = useState({

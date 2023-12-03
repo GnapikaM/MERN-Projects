@@ -9,6 +9,7 @@ import postRoutes from "./routes/postRoutes.js";
 import userRoutes from "./routes/userRoutes.js";
 import contactRoutes from "./routes/contactRoutes.js";
 
+dotenv.config();
 const CONNECTION_URL = process.env.CONNECTION_URL;
 
 mongoose.connect(CONNECTION_URL)
@@ -19,7 +20,6 @@ mongoose.connect(CONNECTION_URL)
 
 const app = express();
 
-dotenv.config();
 const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json({ limit: "50mb", extended: true }));

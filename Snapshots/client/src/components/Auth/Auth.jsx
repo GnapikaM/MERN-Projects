@@ -7,7 +7,7 @@ const Auth = () => {
   const [isSignup, setSignup] = useState(false);
 
   return (
-    <div className="h-[140vh] bg-authbg bg-no-repeat bg-cover flex flex-col items-center justify-center">
+    <div className={`${isSignup ? 'h-[140vh]' : 'h-[100vh]' }  bg-authbg bg-no-repeat bg-cover flex flex-col items-center justify-center`}>
       <div>
         <img src={lock} alt="lock image" width={70} />
       </div>

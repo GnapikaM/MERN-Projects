@@ -35,6 +35,7 @@ export default {
       backgroundImage: {
         'hero': "url(assets/images/hero-image.jpg)",
         'authbg': "url(assets/images/liquid-cheese.svg)",
+        'bg2': "url(assets/images/rose-petals.png)",
       },
       screens: {
         "wide": "1440px",

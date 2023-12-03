@@ -18,6 +18,7 @@ import team2 from "./team2.avif";
 import team3 from "./team3.avif";
 import joinTeam from "./joinTeam.avif";
 import contact from "./contact.avif";
+import bg2 from "./rose-petals.png";
 
 export {
     headerLogo,
@@ -39,5 +40,6 @@ export {
     team2,
     team3,
     joinTeam,
-    contact
+    contact,
+    bg2
 }

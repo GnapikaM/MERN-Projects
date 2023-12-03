@@ -14,16 +14,54 @@ const initialState = {
 };
 
 const AuthForm = ({ isSignup, setSignup }) => {
+  const user = JSON.parse(localStorage.getItem("profile"));
+
   const [showPassword, setShowPassword] = useState(false);
-  const [formData, setFormData] = useState(initialState);
+  const [formData, setFormData] = useState(user || initialState);
+  const [notification, setNotification] = useState(false);
+  const [notificationMessage, setNotificationMessage] = useState("");
 
   const dispatch = useDispatch();
   const navigate = useNavigate();
 
+  const handleTimeOut = () => {
+    setTimeout(() => setNotification(false), 2000);
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
 
+    const existingUsers = JSON.parse(localStorage.getItem("users")) || [];
+
+    const emailExists = existingUsers.find(
+      (user) => user.email === formData.email
+    );
+
+    if (emailExists) {
+      setNotification(!notification);
+      setNotificationMessage(
+        "User already exists in the database. Please use a different email."
+      );
+      handleTimeOut();
+      return;
+    }
+
+    if (isSignup && formData.password !== formData.confirmPassword) {
+      setNotification(!notification);
+      setNotificationMessage("Passwords Don't Match !!!");
+      handleTimeOut();
+    }
+
     if (isSignup) {
+      setNotification(!notification);
+      setNotificationMessage(
+        `Congrats ${formData.firstName}, You have successfully signed up !!!`
+      );
+      handleTimeOut();
+
+      const updatedUsers = [...existingUsers, formData];
+      localStorage.setItem("users", JSON.stringify(updatedUsers));
+
       dispatch(signup(formData, navigate));
     } else {
       dispatch(signin(formData, navigate));
@@ -63,7 +101,12 @@ const AuthForm = ({ isSignup, setSignup }) => {
 
   return (
     <div>
-      <form action="" onSubmit={handleSubmit} className="">
+      {notification && (
+        <div className="fixed top-24 left-[50%] transition-transform -translate-x-1/2 -translate-y-1/2 bg-[#00ADB5] z-[1000] text-white py-2 px-4 text-lg font-semibold rounded shadow-md">
+          <p>{notificationMessage}</p>
+        </div>
+      )}
+      <form onSubmit={handleSubmit}>
         <div className="grid">
           {isSignup && (
             <>
@@ -99,7 +142,12 @@ const AuthForm = ({ isSignup, setSignup }) => {
                     <div className="w-1/4 mr-2 font-semibold text-base max-sm:w-full">
                       <label htmlFor="profileImage">Profile Image: </label>
                     </div>
-                    <input type="file" name="profileImage" className="outline-none border-none my-2" onChange={handleFileChange} />
+                    <input
+                      type="file"
+                      name="profileImage"
+                      className="outline-none border-none my-2"
+                      onChange={handleFileChange}
+                    />
                   </div>
                 ) : (
                   <div className="flex items-center space-x-2 mt-4">

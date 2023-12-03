@@ -15,6 +15,7 @@ const AllPosts = ({ setCurrentId }) => {
   const dispatch = useDispatch();
   const posts = useSelector((state) => state.posts);
   const query = useQuery();
+  const navigate = useNavigate();
   const searchQuery = query.get("searchQuery");
   const searchBy = query.get("searchBy") || "title";
   const [search, setSearch] = useState("");
@@ -26,6 +27,11 @@ const AllPosts = ({ setCurrentId }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [postsPerPage] = useState(6);
   const [currentFilter, setCurrentFilter] = useState("all");
+  const [isSearchResultEmpty, setSearchResultEmpty] = useState(false);
+
+  // useEffect(() => {
+  //   dispatch(getPosts(currentPage, postsPerPage, currentFilter));
+  // }, [dispatch, currentPage, postsPerPage, currentFilter]);
 
   useEffect(() => {
     if (search.trim() === "") {
@@ -101,7 +107,16 @@ const AllPosts = ({ setCurrentId }) => {
     setSearchOption(e.target.value);
   };
 
+  // const handleSearch = () => {
+  //   const searchQueryObject =
+  //     searchOption === "tags"
+  //       ? { tags: search.split(",") }
+  //       : { search, tags: "" };
+  //   dispatch(getPostsBySearch(searchQueryObject, searchOption));
+  // };
+
   const handleSearch = () => {
+    // If the search input is empty, reset the search query and fetch all posts
     if (search.trim() === "") {
       dispatch(getPosts(currentPage, postsPerPage, currentFilter));
     } else {

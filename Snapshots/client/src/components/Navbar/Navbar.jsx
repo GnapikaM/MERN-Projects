@@ -13,7 +13,7 @@ const Navbar = () => {
   const [isProfileModalOpen, setProfileModalOpen] = useState(false);
   const [user, setUser] = useState(JSON.parse(localStorage.getItem("profile")));
   const [prevScrollPos, setPrevScrollPos] = useState(window.pageYOffset);
-  const [visible, setVisible] = useState(true); // Set initial state to true
+  const [visible, setVisible] = useState(true); 
 
   const authData = useSelector((state) => state.AuthReducer.authData);
 
@@ -26,9 +26,9 @@ const Navbar = () => {
   }, [authData]);
 
   useEffect(() => {
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
   }, [prevScrollPos]);
 
@@ -40,7 +40,7 @@ const Navbar = () => {
     const currentScrollPos = window.pageYOffset;
     setVisible(prevScrollPos > currentScrollPos);
     setPrevScrollPos(currentScrollPos);
-  }
+  };
 
   const logout = () => {
     dispatch({ type: actionType.LOGOUT });
@@ -67,10 +67,19 @@ const Navbar = () => {
   };
 
   return (
-    <header className={`fixed top-0 left-0 w-full bg-white z-20 transition-transform duration-300 ease-in-out transform ${visible ? 'translate-y-0' : '-translate-y-full'}`}>
+    <header
+      className={`fixed top-0 left-0 w-full bg-white z-20 transition-transform duration-300 ease-in-out transform ${
+        visible ? "translate-y-0" : "-translate-y-full"
+      }`}
+    >
       <nav className="flex justify-around items-center p-2 shadow-md bg-[#393E46] text-white font-medium z-50 max-lg:hidden">
         <Link to="/" className="flex items-center z-10">
-          <img src={headerLogo} alt="header-logo" width={50} className="object-cover"/>
+          <img
+            src={headerLogo}
+            alt="header-logo"
+            width={50}
+            className="object-cover"
+          />
           <h3 className="text-2xl font-bold font-palanquin pl-3">Snapshots</h3>
         </Link>
         <ul className="flex justify-center items-center z-10">

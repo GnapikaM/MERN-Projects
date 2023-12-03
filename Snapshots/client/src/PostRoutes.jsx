@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import { Routes, Route, useNavigate } from "react-router-dom";
+import React from "react";
+import { Routes, Route } from "react-router-dom";
 
 import Home from "./components/NavLinks/Home/Home";
 import About from "./components/NavLinks/About/About";
@@ -10,9 +10,11 @@ import PopularPosts from "./components/NavLinks/Home/sections/PopularPosts";
 import Auth from "./components/Auth/Auth";
 
 const PostRoutes = ({ currentId, setCurrentId, user }) => {
+  const userData = JSON.parse(localStorage.getItem("profile"));
+
+  const isUserAuthenticated = user || userData;
 
   return (
-
     <Routes>
       <Route path="/" element={<Home setCurrentId={setCurrentId} />} />
       <Route path="/about" element={<About />} />
@@ -29,7 +31,10 @@ const PostRoutes = ({ currentId, setCurrentId, user }) => {
         path="/popular-posts"
         element={<PopularPosts setCurrentId={setCurrentId} />}
       />
-      <Route path="/auth" element={<Auth />} />
+      <Route
+        path="/auth"
+        element={isUserAuthenticated ? <Home setCurrentId={setCurrentId} /> : <Auth />}
+      />
     </Routes>
   );
 };

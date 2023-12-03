@@ -1,5 +1,3 @@
-// we are using redux thunk for asynchronous actions
-
 import * as api from "../api/index.js";
 import {
   FETCH_ALL,
@@ -18,16 +16,6 @@ export const getPosts = () => async (dispatch) => {
   }
 };
 
-// export const getPostsBySearch = (searchQuery) => async (dispatch) => {
-//   try {
-//     const {
-//       data: { data },
-//     } = await api.fetchPostsBySearch(searchQuery);
-//     console.log("Action getPostsBySearch data", data);
-//   } catch (error) {
-//     console.log(error);
-//   }
-// };
 export const getPostsBySearch = (searchQuery, searchBy) => async (dispatch) => {
   try {
     const {

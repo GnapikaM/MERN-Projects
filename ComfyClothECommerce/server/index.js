@@ -18,19 +18,7 @@ const PORT = process.env.PORT || 3000;
 app.use(bodyParser.json({ limit: "50mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "50mb", extended: true }));
 
-const allowedOrigins = ['http://localhost:5173'];
-
-const corsOptions = {
-  origin: function (origin, callback) {
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-};
-
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use("/user", userRoutes);
 app.use("/user", wishlistRoutes);

@@ -18,13 +18,13 @@ export const fetchCartItems = async (req, res) => {
 export const removeFromCart = async (req, res) => {
   const { userId, productId } = req.params;
   try {
-    const user = await UserModel.findByIdAndDelete(
+    const updatedUser = await UserModel.findOneAndUpdate(
       { _id: userId },
-      { $pull: { cart: productId } },
+      { $pull: { cart: { product: productId } } },
       { new: true }
     );
 
-    if (!user) {
+    if (!updatedUser) {
       return res.status(404).json({ message: "User not found" });
     }
 
@@ -34,6 +34,7 @@ export const removeFromCart = async (req, res) => {
     res.status(500).json({ message: "Internal Server Error" });
   }
 };
+
 
 export const addToCart = async (req, res) => {
   const { userId } = req.params;
@@ -49,11 +50,9 @@ export const addToCart = async (req, res) => {
       (item) => String(item.product) === productId
     );
     if (existingProductIndex !== -1) {
-      // If the product exists, update the quantity and size
       user.cart[existingProductIndex].quantity += quantity;
       user.cart[existingProductIndex].size = size;
     } else {
-      // If the product doesn't exist, add it to the cart
       user.cart.push({
         product: productId,
         image: product?.images[0],
@@ -83,9 +82,7 @@ export const updateCartItem = async (req, res) => {
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
-    const index = user.cart.findIndex(
-      (item) => String(item._id) === productId
-    );
+    const index = user.cart.findIndex((item) => String(item._id) === productId);
     if (index !== -1) {
       user.cart[index].quantity = quantity;
 
@@ -105,10 +102,12 @@ export const removeAllFromCart = async (req, res) => {
   const { userId } = req.params;
   try {
     const user = await UserModel.findById(userId);
+    console.log("User: ", user);
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
     user.cart = [];
+    console.log("User cart: ", user.cart);
     await user.save();
     res
       .status(200)

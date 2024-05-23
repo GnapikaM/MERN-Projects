@@ -1,0 +1,149 @@
+.light-theme {
+  --header-bg-color: #e2e8f0;
+  --text-color: #000000;
+  --header-color: #1e293b;
+  --light-text-color: rgba(0, 0, 0, 0.8);
+  --highlight-color: #3b82f6;
+  --highlight-hover-color: #60a5fa;
+  --body-bg-color: #ffffff;
+  --gray-color: #4b5563;
+}
+
+.dark-theme {
+  --header-bg-color: #1e293b;
+  --text-color: #ffffff;
+  --header-color: #e2e8f0;
+  --light-text-color: rgba(255, 255, 255, 0.8);
+  --highlight-color: #f472b6;
+  --highlight-hover-color: #f9a8d4;
+  --body-bg-color: #334155;
+  --gray-color: #c0c3c9;
+}
+
+body {
+  background-color: var(--body-bg-color);
+}
+
+select#favCompany {
+  appearance: none;
+  background-color: var(--header-bg-color);
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: var(--text-color);
+}
+
+select#favCompany option {
+  background-color: var(--header-bg-color);
+  color: var(--text-color);
+  padding: 8px 12px;
+}
+
+select#option {
+  appearance: none;
+  background-color: var(--header-bg-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: var(--text-color);
+  padding: 0px 6px;
+}
+
+select#option option {
+  width: 50px;
+  background-color: var(--header-bg-color);
+  color: var(--text-color);
+}
+
+/* .loader-pulse {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  animation: pulse 1s ease-in-out infinite alternate;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+} */
+
+.loader-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader-pulse {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  animation: pulse 1s ease-in-out infinite alternate;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.outer-ring {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+.loading-dots {
+  animation: fadeInOut 1.5s infinite;
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.loader-small {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: var(--highlight-color);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+

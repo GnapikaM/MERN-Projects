@@ -1,0 +1,3317 @@
+[
+  {
+    "id": 1,
+    "category": "Women",
+    "company": "Sangria",
+    "name": "Traditional Kurta",
+    "color": ["purple", "green"],
+    "availableColors": ["purple", "white", "yellow"],
+    "price": 1623,
+    "origPrice": 5599,
+    "discount": 71,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Beautiful color and comfortable fit. Great for festive occasions!"
+    },
+    "productType": [
+      "kurta",
+      "Ethnic Wear",
+      "kurta Set",
+      "traditional",
+      "Cotton",
+      "Long Sleeve"
+    ],
+    "relatedProducts": ["kurta", "kurta set"],
+    "quantity": 15,
+    "description": "Step into elegance with our Traditional Purple Kurta. Crafted from premium cotton fabric, this kurta features intricate detailing and a comfortable fit. Perfect for festive occasions or casual gatherings, this kurta will add a touch of sophistication to your wardrobe.",
+    "features": [
+      "Intricate detailing",
+      "Comfortable fit",
+      "Premium cotton fabric"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Dry clean only",
+    "sizeGuide": {
+      "Small": "Chest 38\", Length 42\"",
+      "Medium": "Chest 40\", Length 43\"",
+      "Large": "Chest 42\", Length 44\"",
+      "X-Large": "Chest 44\", Length 45\""
+    },
+    "fit": "Regular fit. Model is 5'10\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 19, "length": 41 },
+        "Medium": { "chest": 20, "length": 42 },
+        "Large": { "chest": 21, "length": 43 },
+        "X-Large": { "chest": 22, "length": 44 }
+      },
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Mandarin collar", "Side slits"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/cute-girl-front-pose-wearing-traditional-purple-dress-fashion-shoot_658768-795.jpg?size=626&ext=jpg&ga=GA1.1.1166412826.1699951614",
+      "https://img.freepik.com/premium-photo/pretty-pakistani-girl-wearing-traditional-dress-fashion-shoot_658768-814.jpg?size=626&ext=jpg&ga=GA1.1.1166412826.1699951614",
+      "https://img.freepik.com/premium-photo/pretty-pakistani-girl-portrait-wearing-traditional-dress-fashion-shoot_658768-820.jpg?size=626&ext=jpg&ga=GA1.1.1166412826.1699951614",
+      "https://img.freepik.com/premium-photo/hot-girl-back-pose-wearing-traditional-purple-dress-fashion-shoot_658768-794.jpg?w=360"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Women's Floral Dress",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "floral",
+      "floral dress",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["pink"],
+    "availableColors": ["pink", "navy", "white", "teal"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our Women's Floral Dress. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-smiling-woman-wearing-modern-trendy-dress_208024-696.jpg?w=360",
+      "https://img.freepik.com/premium-photo/beautiful-smiling-woman-wearing-modern-trendy-dress_208024-697.jpg?w=360",
+      "https://img.freepik.com/premium-photo/cute-girl-beautiful-dress-brown-hair_170362-1680.jpg?w=360"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Long Floral Dress",
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely stunning! The dress fits perfectly and the floral pattern is beautiful."
+    },
+    "color": ["white", "red"],
+    "availableColors": ["white"],
+    "price": 1159,
+    "origPrice": 3999,
+    "discount": 71,
+    "quantity": 20,
+    "productType": [
+      "Dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "Floral",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "description": "Make a statement with our elegant Long Floral Dress. Crafted from lightweight fabric, this maxi dress features a vibrant floral print and flattering silhouette. Perfect for summer parties or beach outings, this dress will turn heads wherever you go.",
+    "features": [
+      "Vibrant floral print",
+      "Flattering silhouette",
+      "Lightweight fabric"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, hang dry, do not bleach",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 26-28\", Hips 36-38\"",
+      "Medium": "Bust 34-36\", Waist 28-30\", Hips 38-40\"",
+      "Large": "Bust 36-38\", Waist 30-32\", Hips 40-42\"",
+      "X-Large": "Bust 38-40\", Waist 32-34\", Hips 42-44\""
+    },
+    "fit": "Regular fit. Model is 5'8\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "4-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "length": "Floor length",
+      "weight": "0.8 lbs",
+      "additionalFeatures": ["V-neckline", "Adjustable spaghetti straps"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/elegant-woman-pretty-long-dress-with-floral-patterns-red-color-white-soft-gray-background_481253-2354.jpg?w=360",
+      "https://img.freepik.com/premium-photo/elegant-woman-pretty-long-dress-with-floral-patterns-red-color-white-soft-gray-background_481253-2342.jpg?w=360",
+      "https://img.freepik.com/premium-photo/elegant-woman-pretty-long-dress-with-floral-patterns-red-color-white-soft-gray-background_481253-2417.jpg?w=360"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Girls",
+    "company": "Sangria",
+    "name": "Girl Kurta Set",
+    "color": ["red"],
+    "availableColors": ["red"],
+    "price": 778,
+    "origPrice": 1899,
+    "discount": 59,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Adorable outfit! My daughter loves it and it's great quality."
+    },
+    "quantity": 10,
+    "productType": ["kurta", "Kurta Set", "traditional", "Ethnic Wear"],
+    "relatedProducts": ["kurta", "kurta set"],
+    "description": "Dress your little one in style with our Girl Kurta Set. This adorable set includes a printed kurta and matching leggings. Made from soft and breathable fabric, it's perfect for keeping your child comfortable during summer outings or special occasions.",
+    "features": [
+      "Printed kurta",
+      "Matching leggings",
+      "Soft and breathable fabric"
+    ],
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, gentle cycle, tumble dry low, do not bleach",
+    "sizeGuide": {
+      "2-3 Years": "Chest 22\", Waist 20\", Length 20\"",
+      "3-4 Years": "Chest 24\", Waist 22\", Length 22\"",
+      "4-5 Years": "Chest 26\", Waist 24\", Length 24\"",
+      "5-6 Years": "Chest 28\", Waist 26\", Length 26\""
+    },
+    "fit": "True to size. Model is 3 years old and wearing size 3-4 Years.",
+    "shipping": {
+      "estimatedDelivery": "5-8 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Round neckline", "Elastic waistband on leggings"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/portrait-cute-little-indian-girl-model-sitting-isolated-white-background_466689-45019.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-small-girl-holding-shopping-bags-standing-isolated-white-background_466689-45030.jpg?w=360",
+      "https://img.freepik.com/premium-photo/portrait-cute-little-indian-girl-model-sitting-isolated-white-background_466689-45020.jpg?w=360"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Hooded SweatShirt",
+    "color": ["#004c4c"],
+    "availableColors": ["#004c4c", "lavender", "yellow", "orange"],
+    "price": 1499,
+    "origPrice": 1799,
+    "discount": 17,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "Super comfortable and stylish! The hood is a nice touch."
+    },
+    "quantity": 25,
+    "description": "Stay cozy and fashionable with our Hooded Pure Cotton Sweatshirt. Made from high-quality cotton fabric, this sweatshirt features a hood with drawstrings and a kangaroo pocket. Perfect for chilly days, it offers both warmth and style.",
+    "features": [
+      "Hood with drawstrings",
+      "Kangaroo pocket",
+      "Soft and comfortable cotton fabric"
+    ],
+    "productType": ["SweatShirt", "Hoodie", "Cotton", "Winter Wear"],
+    "relatedProducts": ["SweatShirt"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, do not bleach, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 38-40\", Length 26\"",
+      "Medium": "Chest 40-42\", Length 27\"",
+      "Large": "Chest 42-44\", Length 28\"",
+      "X-Large": "Chest 44-46\", Length 29\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 11.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Ribbed cuffs and hem",
+        "Embroidered logo on chest"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/front-view-modern-boy-with-sunglasses-posing_23-2148423108.jpg?w=360",
+      "https://img.freepik.com/free-photo/front-view-modern-boy-with-sunglasses-posing_23-2148423111.jpg?w=360"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Women",
+    "company": "HRX",
+    "name": "Women's Trench Coat",
+    "price": 2224,
+    "origPrice": 4449,
+    "discount": 50,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this trench coat! Stylish and perfect for rainy days."
+    },
+    "productType": [
+      "Trench coat",
+      "coat",
+      "western",
+      "long coat",
+      "Coat",
+      "Outerwear",
+      "Raincoat"
+    ],
+    "relatedProducts": ["coat", "long coat"],
+    "color": ["gray"],
+    "availableColors": ["gray", "brown", "black"],
+    "quantity": 10,
+    "description": "Stay chic and dry with our Women's Trench Coat. Made from water-resistant fabric, this classic trench coat features a double-breasted front with button closures, a belted waist for a flattering fit, and a detachable hood. Whether you're running errands or heading to the office, this versatile coat will keep you looking stylish and protected from the elements.",
+    "features": [
+      "Water-resistant fabric",
+      "Double-breasted front",
+      "Belted waist",
+      "Detachable hood"
+    ],
+    "material": "Polyester blend",
+    "careInstructions": "Machine wash cold, hang dry",
+    "sizeGuide": {
+      "Small": "Bust 34-35\", Waist 26-27\", Hips 36-37\"",
+      "Medium": "Bust 36-37\", Waist 28-29\", Hips 38-39\"",
+      "Large": "Bust 38-39\", Waist 30-31\", Hips 40-41\"",
+      "X-Large": "Bust 40-41\", Waist 32-33\", Hips 42-43\""
+    },
+    "fit": "Regular fit. Model is 5'8\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "bust": 36, "waist": 28, "length": 34 },
+        "Medium": { "bust": 38, "waist": 30, "length": 35 },
+        "Large": { "bust": 40, "waist": 32, "length": 36 },
+        "X-Large": { "bust": 42, "waist": 34, "length": 37 }
+      },
+      "weight": "2 lbs",
+      "additionalFeatures": ["Two side pockets", "Buttoned epaulettes"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/young-happy-smiling-pretty-girl-gray-coat-turtleneck-poses-outdoors_115128-835.jpg?w=360",
+      "https://img.freepik.com/premium-photo/young-happy-smiling-pretty-girl-gray-coat-turtleneck-poses-outdoors_115128-904.jpg?w=360",
+      "https://img.freepik.com/premium-photo/young-thoughtful-pretty-girl-gray-coat-turtleneck-poses-outdoors-street-style-portrait-photo-session-attractive-female-urban-photoshoot-beautiful-elegant-model_115128-1198.jpg?w=360"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Cotton Casual Shirt",
+    "color": ["lightblue"],
+    "availableColors": ["lightblue", "white"],
+    "price": 799,
+    "origPrice": 0,
+    "discount": 0,
+    "reviews": {
+      "averageRating": 4.4,
+      "totalReviews": 0,
+      "sampleReview": "Very comfortable and stylish! Love the fabric."
+    },
+    "quantity": 15,
+    "productType": ["shirt", "cotton", "formal", "Casual Shirt", "Summer Wear"],
+    "relatedProducts": ["shirt"],
+    "description": "Upgrade your casual wardrobe with our Cotton Casual Shirt. Crafted from soft and breathable cotton fabric, this shirt offers comfort and style for everyday wear. Whether you're out for a stroll or meeting friends, this shirt will keep you looking sharp.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Classic button-down design",
+      "Versatile for various occasions"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, gentle cycle, tumble dry low, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Regular fit. Model is 6'1\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.6 lbs",
+      "additionalFeatures": ["Button-down collar", "Single chest pocket"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/full-shot-modern-boy-with-skateboard_23-2148423265.jpg?w=360",
+      "https://img.freepik.com/free-photo/front-view-modern-boy-with-skateboard_23-2148423255.jpg?w=360",
+      "https://img.freepik.com/free-photo/front-view-modern-boy-with-skateboard_23-2148423254.jpg?t=st=1714412131~exp=1714415731~hmac=db5cc5a9eff6d4cf710b48879b228a7159d6c67beb08a01f5dc63fbf8562e1a8&w=360"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Men",
+    "company": "Anouk",
+    "name": "Men Kurta-pyjama",
+    "color": ["navy"],
+    "availableColors": ["navy", "beige"],
+    "price": 1044,
+    "origPrice": 1899,
+    "discount": 45,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this kurta-pyjama set! Great fit and comfortable fabric."
+    },
+    "quantity": 20,
+    "productType": [
+      "kurta",
+      "pyjama",
+      "kurta pyjama",
+      "traditional",
+      "Ethnic Wear",
+      "Festive Wear"
+    ],
+    "relatedProducts": ["kurta", "pyjama", "kurta pyjama"],
+    "description": "Dress elegantly for special occasions with our Men Kurta-pyjama set. Made from high-quality cotton fabric, this set features a classic kurta with intricate embroidery and matching pyjamas for a complete ethnic look. Elevate your festive attire with this stylish ensemble.",
+    "features": [
+      "Classic kurta with intricate embroidery",
+      "Matching pyjamas",
+      "Comfortable cotton fabric"
+    ],
+    "material": "Cotton",
+    "careInstructions": "Dry clean recommended, gentle hand wash in cold water, do not bleach, hang dry in shade",
+    "sizeGuide": {
+      "Small": "Chest 38\", Length 42\", Pyjama Waist 30\"",
+      "Medium": "Chest 40\", Length 44\", Pyjama Waist 32\"",
+      "Large": "Chest 42\", Length 46\", Pyjama Waist 34\"",
+      "X-Large": "Chest 44\", Length 48\", Pyjama Waist 36\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.2 lbs",
+      "additionalFeatures": [
+        "Embroidered collar and cuffs",
+        "Drawstring closure on pyjamas"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45498.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45490.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45503.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45508.jpg?w=360"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Accessories",
+    "company": "Tokyo Talkies",
+    "name": "Women Golden Bracelets",
+    "color": ["gold"],
+    "availableColors": ["gold"],
+    "productType": ["bracelets", "metal", "Jewelry", "Fashion"],
+    "relatedProducts": ["Jewelry"],
+    "price": 899,
+    "origPrice": 1099,
+    "discount": 18,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely stunning bracelets! They add such an elegant touch to any outfit."
+    },
+    "quantity": 15,
+    "description": "Add a touch of glamour to your look with our Women Golden Bracelets. This set features three intricately designed bracelets crafted from high-quality gold-plated metal. Whether you're dressing up for a special occasion or adding sophistication to your everyday attire, these bracelets are sure to elevate your style.",
+    "features": [
+      "Set of three golden bracelets",
+      "Intricate design",
+      "High-quality gold-plated metal"
+    ],
+    "material": "Gold-plated metal",
+    "careInstructions": "Avoid contact with water, perfumes, and chemicals. Store in a dry place away from direct sunlight.",
+    "fit": "Comfortable fit for most wrist sizes.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.2 lbs",
+      "additionalFeatures": ["Adjustable closure", "Nickel-free and lead-free"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/top-view-two-golden-bracelets-white-dramatic-background-with-copy-space_237502-418.jpg?w=360",
+      "https://img.freepik.com/premium-photo/top-view-two-golden-bracelets-white-dramatic-background-with-copy-space_237502-420.jpg?w=360",
+      "https://img.freepik.com/premium-photo/top-view-two-golden-bracelets-white-dramatic-background-with-copy-space_237502-420.jpg?w=360",
+      "https://img.freepik.com/premium-photo/gold-bracelet-white-office-desk_237502-377.jpg?w=900"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "FootWear",
+    "company": "H&M",
+    "name": "Men Leather Boots",
+    "productType": ["shoes", "leather shoes", "boots", "leather boots"],
+    "relatedProducts": ["shoes", "boots"],
+    "color": ["brown"],
+    "availableColors": ["brown"],
+    "price": 2882,
+    "origPrice": 3695,
+    "discount": 22,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "These boots are amazing! Great quality leather and very comfortable."
+    },
+    "quantity": 20,
+    "description": "Step out in style with our Men Brown Leather Boots. Crafted from genuine leather, these boots feature a classic design with a sturdy sole for durability. Whether you're dressing up for a night out or going for a casual look, these boots will complement any outfit.",
+    "features": [
+      "Genuine leather construction",
+      "Classic design",
+      "Sturdy sole for durability"
+    ],
+    "material": "Genuine leather",
+    "careInstructions": "Clean with a damp cloth. Apply leather conditioner regularly to maintain shine and softness.",
+    "sizeGuide": {
+      "US 7": "EU 40",
+      "US 8": "EU 41",
+      "US 9": "EU 42",
+      "US 10": "EU 43",
+      "US 11": "EU 44",
+      "US 12": "EU 45"
+    },
+    "fit": "True to size. Order your usual size for the perfect fit.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.2 lbs",
+      "additionalFeatures": [
+        "Lace-up closure",
+        "Padded collar for added comfort"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/pair-brown-leather-boots_1150-6005.jpg?w=360",
+      "https://img.freepik.com/free-photo/male-foot-with-brown-leather-shoes-jeans_1150-5998.jpg?w=360",
+      "https://img.freepik.com/free-photo/men-who-stepped-rocks-ready-travel_1150-15289.jpg?w=900",
+      "https://img.freepik.com/free-photo/maie-foot-with-brown-leather-shoes-jeans_1150-6004.jpg?w=900"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Hooded SweatShirt",
+    "color": ["lavender"],
+    "availableColors": ["#004c4c", "lavender", "yellow", "orange"],
+    "price": 1499,
+    "origPrice": 1799,
+    "discount": 17,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "Super comfortable and stylish! The hood is a nice touch."
+    },
+    "quantity": 25,
+    "description": "Stay cozy and fashionable with our Hooded Pure Cotton Sweatshirt. Made from high-quality cotton fabric, this sweatshirt features a hood with drawstrings and a kangaroo pocket. Perfect for chilly days, it offers both warmth and style.",
+    "features": [
+      "Hood with drawstrings",
+      "Kangaroo pocket",
+      "Soft and comfortable cotton fabric"
+    ],
+    "productType": ["SweatShirt", "Hoodie", "Cotton", "Winter Wear"],
+    "relatedProducts": ["SweatShirt"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, do not bleach, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 38-40\", Length 26\"",
+      "Medium": "Chest 40-42\", Length 27\"",
+      "Large": "Chest 42-44\", Length 28\"",
+      "X-Large": "Chest 44-46\", Length 29\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 11.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Ribbed cuffs and hem",
+        "Embroidered logo on chest"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/portrait-teen-boy-carrying-with-big-pencil_23-2149334555.jpg?t=st=1714411279~exp=1714414879~hmac=d4333bee1c57408486562b2866c2b8d38a80b33caf9afc67cb7733183f4560bd&w=360",
+      "https://img.freepik.com/free-photo/portrait-teen-boy-posing-thinking_23-2149334547.jpg?t=st=1714411380~exp=1714414980~hmac=be76c5391396d28c763ee50cd6232189d1482999bc32505fd45c6cfbd95c78db&w=360",
+      "https://img.freepik.com/free-photo/portrait-teen-boy-playing-with-dinosaur_23-2149334552.jpg?t=st=1714411430~exp=1714415030~hmac=225f4ae0413403dc162d21ef6e5d5aafe3eea8669876b5cbb772a6fb6c840e66&w=360"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Cotton Casual Shirt",
+    "color": ["white"],
+    "availableColors": ["lightblue", "white"],
+    "price": 799,
+    "origPrice": 0,
+    "discount": 0,
+    "reviews": {
+      "averageRating": 4.4,
+      "totalReviews": 0,
+      "sampleReview": "Very comfortable and stylish! Love the fabric."
+    },
+    "quantity": 15,
+    "productType": ["shirt", "cotton", "formal", "Casual Shirt", "Summer Wear"],
+    "relatedProducts": ["shirt"],
+    "description": "Upgrade your casual wardrobe with our Cotton Casual Shirt. Crafted from soft and breathable cotton fabric, this shirt offers comfort and style for everyday wear. Whether you're out for a stroll or meeting friends, this shirt will keep you looking sharp.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Classic button-down design",
+      "Versatile for various occasions"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, gentle cycle, tumble dry low, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Regular fit. Model is 6'1\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.6 lbs",
+      "additionalFeatures": ["Button-down collar", "Single chest pocket"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/boy-sitting-chair-birthday-party_23-2147897758.jpg?t=st=1714449115~exp=1714452715~hmac=eb511cdc9f97dec00cb190a3cc7a51ee6bb78fbbfba563b51438650595f5ada5&w=360",
+      "https://img.freepik.com/free-photo/smiling-boy-looking-camera_23-2147897759.jpg?t=st=1714449050~exp=1714452650~hmac=b021004bc2003f14a416df80db1088a87509725fad215afa4434407c8ccb69cb&w=360"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Women",
+    "company": "Roadster",
+    "name": "Black Short Dress",
+    "price": 1271,
+    "origPrice": 5299,
+    "discount": 76,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! It's so comfortable and looks great."
+    },
+    "color": ["black"],
+    "availableColors": ["black"],
+    "productType": [
+      "dress",
+      "short dress",
+      "Summer Dress",
+      "Casual Dress",
+      "Black Dress"
+    ],
+    "relatedProducts": ["short dress"],
+    "quantity": 10,
+    "description": "Add a touch of elegance to your wardrobe with our Women's Black Short Dress. Crafted from high-quality fabric, this dress features a flattering silhouette with a V-neckline and short sleeves. Perfect for any occasion, whether it's a casual outing or a night on the town.",
+    "features": ["Flattering silhouette", "V-neckline", "Short sleeves"],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, do not bleach, hang or line dry",
+    "sizeGuide": {
+      "Small": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Medium": "Bust 36-38\", Waist 28-30\", Hips 38-40\"",
+      "Large": "Bust 38-40\", Waist 30-32\", Hips 40-42\""
+    },
+    "fit": "True to size. Model is 5'8\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Zipper closure at the back", "Lined interior"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/beautiful-woman-black-short-dress-leaning-fence-terrace-she-is-looking-camera_197531-1089.jpg?w=360",
+      "https://img.freepik.com/free-photo/portrait-pretty-model-black-dress-with-naked-back-terrace-she-is-looking-down_197531-1090.jpg?w=360",
+      "https://img.freepik.com/free-photo/attractive-model-black-short-dress-leaning-table-terrace-she-is-looking-camera_197531-1091.jpg?w=360",
+      "https://img.freepik.com/free-photo/attractive-model-black-short-dress-leaning-fence-terrace-she-looking-camera_197531-1088.jpg?w=360"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Women",
+    "company": "Mast & Harbour",
+    "name": "Red Long Dress",
+    "price": 989,
+    "origPrice": 3299,
+    "discount": 70,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "This dress is stunning! The color is vibrant and the fit is perfect."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "western",
+      "Evening Dress",
+      "Maxi Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["red"],
+    "availableColors": ["red"],
+    "quantity": 20,
+    "description": "Make a statement in our Women's Red Long Dress. Crafted from high-quality fabric, this dress features a flowing silhouette with a flattering V-neckline and adjustable spaghetti straps. Whether you're attending a formal event or a night out, this dress will ensure you stand out.",
+    "features": [
+      "Flowing silhouette",
+      "V-neckline",
+      "Adjustable spaghetti straps"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Dry clean only",
+    "sizeGuide": {
+      "Small": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Medium": "Bust 36-38\", Waist 28-30\", Hips 38-40\"",
+      "Large": "Bust 38-40\", Waist 30-32\", Hips 40-42\""
+    },
+    "fit": "True to size. Model is 5'9\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.6 lbs",
+      "additionalFeatures": ["Back zipper closure", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17506.jpg?w=360",
+      "https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17503.jpg?w=360",
+      "https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17506.jpg?w=360"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Women's Floral Dress",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "floral",
+      "floral dress",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["navy"],
+    "availableColors": ["pink", "navy", "white", "teal"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our Women's Floral Dress. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/sideways-woman-posing-green-house_23-2148261255.jpg?t=st=1714104077~exp=1714107677~hmac=a2c57f41ad07df270a4bb75eb950f2ad46a508c3f7192b2c0a148f218facac0f&w=360",
+      "https://img.freepik.com/free-photo/medium-shot-woman-playing-with-her-hair_23-2148261254.jpg?t=st=1714104434~exp=1714108034~hmac=cf6bb433ae03e9b7592cd6aa8f033c38ef4efa9bdc8f0805269d0e203e8c4787&w=360",
+      "https://img.freepik.com/free-photo/woman-floral-dress-looking-camera_23-2148261282.jpg?t=st=1714104700~exp=1714108300~hmac=3393332b77bc3ed8dd4c763818629854fb3fc570c9c332f26568a2088d280892&w=360"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Men",
+    "company": "HRX",
+    "name": "Men's Denim Jacket",
+    "price": 1035,
+    "origPrice": 2799,
+    "discount": 63,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Great denim jacket! Fits well and looks stylish."
+    },
+    "productType": ["denim jacket", "jacket", "western", "Outerwear"],
+    "relatedProducts": ["jacket"],
+    "color": ["blue"],
+    "availableColors": ["blue", "black", "gray"],
+    "quantity": 10,
+    "description": "Add a touch of rugged style to your wardrobe with our Men's Denim Jacket. Crafted from durable denim fabric, this jacket features a classic trucker silhouette with metal button closures and multiple pockets. Whether you're heading out for a casual day or a night out, this versatile jacket will keep you looking effortlessly cool.",
+    "features": [
+      "Classic trucker silhouette",
+      "Metal button closures",
+      "Multiple pockets"
+    ],
+    "material": "100% cotton denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Regular fit. Model is 6'1\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 20, "length": 25 },
+        "Medium": { "chest": 22, "length": 26 },
+        "Large": { "chest": 24, "length": 27 },
+        "X-Large": { "chest": 26, "length": 28 }
+      },
+      "weight": "1.2 lbs",
+      "additionalFeatures": ["Button cuffs", "Adjustable waist tabs"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/modern-man-with-sunglasses-city_23-2147961048.jpg?t=st=1714104759~exp=1714108359~hmac=00f0689c5099282f9a06b7586ea8b1e2b636a4963a801908f7a5db1d9ec43cc0&w=360",
+      "https://img.freepik.com/free-photo/modern-man-with-coffee-cup-urban-environment_23-2147961448.jpg?t=st=1714104789~exp=1714108389~hmac=1bbb0564f7be0d46593ac2831601de00a988f2f72a44853bdd3769fda5b407d6&w=360",
+      "https://img.freepik.com/free-photo/modern-man-with-coffee-cup-urban-environment_23-2147960989.jpg?t=st=1714104816~exp=1714108416~hmac=80cf043f7f8fb493291a407f955a01ead8a19b09f8a7dfcfd79fd27d0f901dfe&w=360"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Women",
+    "company": "HRX",
+    "name": "Women's Trench Coat",
+    "price": 2224,
+    "origPrice": 4449,
+    "discount": 50,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this trench coat! Stylish and perfect for rainy days."
+    },
+    "productType": [
+      "Trench coat",
+      "coat",
+      "western",
+      "long coat",
+      "Coat",
+      "Outerwear",
+      "Raincoat"
+    ],
+    "relatedProducts": ["coat", "long coat"],
+    "color": ["brown"],
+    "availableColors": ["gray", "brown", "black"],
+    "quantity": 10,
+    "description": "Stay chic and dry with our Women's Trench Coat. Made from water-resistant fabric, this classic trench coat features a double-breasted front with button closures, a belted waist for a flattering fit, and a detachable hood. Whether you're running errands or heading to the office, this versatile coat will keep you looking stylish and protected from the elements.",
+    "features": [
+      "Water-resistant fabric",
+      "Double-breasted front",
+      "Belted waist",
+      "Detachable hood"
+    ],
+    "material": "Polyester blend",
+    "careInstructions": "Machine wash cold, hang dry",
+    "sizeGuide": {
+      "Small": "Bust 34-35\", Waist 26-27\", Hips 36-37\"",
+      "Medium": "Bust 36-37\", Waist 28-29\", Hips 38-39\"",
+      "Large": "Bust 38-39\", Waist 30-31\", Hips 40-41\"",
+      "X-Large": "Bust 40-41\", Waist 32-33\", Hips 42-43\""
+    },
+    "fit": "Regular fit. Model is 5'8\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "bust": 36, "waist": 28, "length": 34 },
+        "Medium": { "bust": 38, "waist": 30, "length": 35 },
+        "Large": { "bust": 40, "waist": 32, "length": 36 },
+        "X-Large": { "bust": 42, "waist": 34, "length": 37 }
+      },
+      "weight": "2 lbs",
+      "additionalFeatures": ["Two side pockets", "Buttoned epaulettes"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/full-shot-woman-walking-beach_23-2150100078.jpg?t=st=1714104951~exp=1714108551~hmac=669782c922f96b30fef6e14e3c5eb21577f518c42a8e397c4deaec4673019314&w=360"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Hooded SweatShirt",
+    "color": ["orange"],
+    "availableColors": ["#004c4c", "lavender", "yellow", "orange"],
+    "price": 1499,
+    "origPrice": 1799,
+    "discount": 17,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "Super comfortable and stylish! The hood is a nice touch."
+    },
+    "quantity": 25,
+    "description": "Stay cozy and fashionable with our Hooded Pure Cotton Sweatshirt. Made from high-quality cotton fabric, this sweatshirt features a hood with drawstrings and a kangaroo pocket. Perfect for chilly days, it offers both warmth and style.",
+    "features": [
+      "Hood with drawstrings",
+      "Kangaroo pocket",
+      "Soft and comfortable cotton fabric"
+    ],
+    "productType": ["SweatShirt", "Hoodie", "Cotton", "Winter Wear"],
+    "relatedProducts": ["SweatShirt"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, do not bleach, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 38-40\", Length 26\"",
+      "Medium": "Chest 40-42\", Length 27\"",
+      "Large": "Chest 42-44\", Length 28\"",
+      "X-Large": "Chest 44-46\", Length 29\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 11.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Ribbed cuffs and hem",
+        "Embroidered logo on chest"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/close-up-sad-boy-portrait_23-2149607234.jpg?t=st=1714411477~exp=1714415077~hmac=75edf171ad71a856c14b9bfa55e97747960c6b5cce9d7bc63060db6415c7c019&w=360",
+      "https://img.freepik.com/free-photo/close-up-sad-boy-portrait_23-2149607252.jpg?t=st=1714411715~exp=1714415315~hmac=7ddf834284fa05845ec0b5e59cdf50044b8684e6bb5893f912665e77e69af9a9&w=360"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Women",
+    "company": "HRX",
+    "name": "Women's Trench Coat",
+    "price": 2224,
+    "origPrice": 4449,
+    "discount": 50,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this trench coat! Stylish and perfect for rainy days."
+    },
+    "productType": [
+      "Trench coat",
+      "coat",
+      "western",
+      "long coat",
+      "Coat",
+      "Outerwear",
+      "Raincoat"
+    ],
+    "relatedProducts": ["coat", "long coat"],
+    "color": ["black"],
+    "availableColors": ["gray", "brown", "black"],
+    "quantity": 10,
+    "description": "Stay chic and dry with our Women's Trench Coat. Made from water-resistant fabric, this classic trench coat features a double-breasted front with button closures, a belted waist for a flattering fit, and a detachable hood. Whether you're running errands or heading to the office, this versatile coat will keep you looking stylish and protected from the elements.",
+    "features": [
+      "Water-resistant fabric",
+      "Double-breasted front",
+      "Belted waist",
+      "Detachable hood"
+    ],
+    "material": "Polyester blend",
+    "careInstructions": "Machine wash cold, hang dry",
+    "sizeGuide": {
+      "Small": "Bust 34-35\", Waist 26-27\", Hips 36-37\"",
+      "Medium": "Bust 36-37\", Waist 28-29\", Hips 38-39\"",
+      "Large": "Bust 38-39\", Waist 30-31\", Hips 40-41\"",
+      "X-Large": "Bust 40-41\", Waist 32-33\", Hips 42-43\""
+    },
+    "fit": "Regular fit. Model is 5'8\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "bust": 36, "waist": 28, "length": 34 },
+        "Medium": { "bust": 38, "waist": 30, "length": 35 },
+        "Large": { "bust": 40, "waist": 32, "length": 36 },
+        "X-Large": { "bust": 42, "waist": 34, "length": 37 }
+      },
+      "weight": "2 lbs",
+      "additionalFeatures": ["Two side pockets", "Buttoned epaulettes"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/portrait-young-peson-with-their-frinds_23-2149290185.jpg?t=st=1714451328~exp=1714454928~hmac=eac6724b4e5ee54d99251e3d625aff573861b2e0e479c0620736fa5160329a3b&w=360",
+      "https://img.freepik.com/free-photo/portrait-young-peson-with-their-frinds_23-2149290186.jpg?t=st=1714451406~exp=1714455006~hmac=344b6c820d712758e2a010f8a68ab66694f2b62af8d257c4a7c92dadd591fdc7&w=360"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Men",
+    "company": "HRX",
+    "name": "Men's Denim Jacket",
+    "price": 1035,
+    "origPrice": 2799,
+    "discount": 63,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Great denim jacket! Fits well and looks stylish."
+    },
+    "productType": ["denim jacket", "jacket", "western", "Outerwear"],
+    "relatedProducts": ["jacket"],
+    "color": ["black"],
+    "availableColors": ["blue", "black", "gray"],
+    "quantity": 10,
+    "description": "Add a touch of rugged style to your wardrobe with our Men's Denim Jacket. Crafted from durable denim fabric, this jacket features a classic trucker silhouette with metal button closures and multiple pockets. Whether you're heading out for a casual day or a night out, this versatile jacket will keep you looking effortlessly cool.",
+    "features": [
+      "Classic trucker silhouette",
+      "Metal button closures",
+      "Multiple pockets"
+    ],
+    "material": "100% cotton denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Regular fit. Model is 6'1\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 20, "length": 25 },
+        "Medium": { "chest": 22, "length": 26 },
+        "Large": { "chest": 24, "length": 27 },
+        "X-Large": { "chest": 26, "length": 28 }
+      },
+      "weight": "1.2 lbs",
+      "additionalFeatures": ["Button cuffs", "Adjustable waist tabs"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/attractive-man-standing-floor-wearing-watch_171337-20056.jpg?t=st=1714450584~exp=1714454184~hmac=8da9961a3f290ae4c2e0d059c2430a6312f8dba37dcda9a3fa95cf2223ef3198&w=360",
+      "https://img.freepik.com/premium-photo/vertical-image-hipster-snap-back-looking-away_171337-20969.jpg?w=360",
+      "https://img.freepik.com/premium-photo/vertical-image-cool-hipster-snap-back_171337-20956.jpg?w=360"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Men",
+    "company": "HRX",
+    "name": "Men's Denim Jacket",
+    "price": 1035,
+    "origPrice": 2799,
+    "discount": 63,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Great denim jacket! Fits well and looks stylish."
+    },
+    "productType": ["denim jacket", "jacket", "western", "Outerwear"],
+    "relatedProducts": ["jacket"],
+    "color": ["gray"],
+    "availableColors": ["blue", "black", "gray"],
+    "quantity": 10,
+    "description": "Add a touch of rugged style to your wardrobe with our Men's Denim Jacket. Crafted from durable denim fabric, this jacket features a classic trucker silhouette with metal button closures and multiple pockets. Whether you're heading out for a casual day or a night out, this versatile jacket will keep you looking effortlessly cool.",
+    "features": [
+      "Classic trucker silhouette",
+      "Metal button closures",
+      "Multiple pockets"
+    ],
+    "material": "100% cotton denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Regular fit. Model is 6'1\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 20, "length": 25 },
+        "Medium": { "chest": 22, "length": 26 },
+        "Large": { "chest": 24, "length": 27 },
+        "X-Large": { "chest": 26, "length": 28 }
+      },
+      "weight": "1.2 lbs",
+      "additionalFeatures": ["Button cuffs", "Adjustable waist tabs"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/side-viewfashionable-young-man-denim-jacket_252847-30758.jpg?w=360"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Boys",
+    "company": "HRX",
+    "name": "Hooded SweatShirt",
+    "color": ["yellow"],
+    "availableColors": ["#004c4c", "lavender", "yellow", "orange"],
+    "price": 1499,
+    "origPrice": 1799,
+    "discount": 17,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "Super comfortable and stylish! The hood is a nice touch."
+    },
+    "quantity": 25,
+    "description": "Stay cozy and fashionable with our Hooded Pure Cotton Sweatshirt. Made from high-quality cotton fabric, this sweatshirt features a hood with drawstrings and a kangaroo pocket. Perfect for chilly days, it offers both warmth and style.",
+    "features": [
+      "Hood with drawstrings",
+      "Kangaroo pocket",
+      "Soft and comfortable cotton fabric"
+    ],
+    "productType": ["SweatShirt", "Hoodie", "Cotton", "Winter Wear"],
+    "relatedProducts": ["SweatShirt"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, do not bleach, iron on low heat if needed",
+    "sizeGuide": {
+      "Small": "Chest 38-40\", Length 26\"",
+      "Medium": "Chest 40-42\", Length 27\"",
+      "Large": "Chest 42-44\", Length 28\"",
+      "X-Large": "Chest 44-46\", Length 29\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 11.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Ribbed cuffs and hem",
+        "Embroidered logo on chest"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/vertical-closeup-portrait-teenager-casual-clothes-happy-smiling-teenager-autumn-park-sunlight-beautiful-child-looks-camera-nature_964739-12817.jpg?w=360"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Boys",
+    "company": "H&M",
+    "name": "Kids' T-shirt",
+    "price": 359,
+    "origPrice": 799,
+    "discount": 55,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "My kid loves this shirt! Comfortable and great quality."
+    },
+    "productType": ["T-shirt", "Kids", "Summer", "Cotton"],
+    "relatedProducts": ["T-shirt"],
+    "color": ["yellow"],
+    "availableColors": ["yellow", "White", "red", "black"],
+    "quantity": 10,
+    "description": "Keep your little one looking stylish and feeling comfortable with our Kids' T-shirt. Made from soft and breathable cotton fabric, this classic t-shirt features a crew neckline and short sleeves. Perfect for everyday wear, playtime, or casual outings, this versatile shirt will become a favorite in your child's wardrobe.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Crew neckline",
+      "Short sleeves"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "2-3 Years": "Chest 22-23\", Height 35-38\"",
+      "4-5 Years": "Chest 24-25\", Height 39-44\"",
+      "6-7 Years": "Chest 26-27\", Height 45-50\"",
+      "8-9 Years": "Chest 28-29\", Height 51-54\""
+    },
+    "fit": "Regular fit. Model is 4'2\" and wearing size 4-5 Years.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "2-3 Years": { "chest": 22, "length": 16 },
+        "4-5 Years": { "chest": 24, "length": 17 },
+        "6-7 Years": { "chest": 26, "length": 18 },
+        "8-9 Years": { "chest": 28, "length": 19 }
+      },
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Tag-free neck label", "Double-needle stitching"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/front-view-little-boy-posing-pink-background_23-2148356638.jpg?t=st=1714114000~exp=1714117600~hmac=aabd89031160d02ab6b92a4fa6924366c9992f5d8048f33bf35058686e4f1bb6&w=360",
+      "https://img.freepik.com/free-photo/front-view-smiley-boy-posing_23-2148356642.jpg?t=st=1714114070~exp=1714117670~hmac=c759c218b8287ba95cca691a992e39a09434f79105bd2d43d5f0ea9eda419364&w=360"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Boys",
+    "company": "H&M",
+    "name": "Kids' T-shirt",
+    "price": 359,
+    "origPrice": 799,
+    "discount": 55,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "My kid loves this shirt! Comfortable and great quality."
+    },
+    "productType": ["T-shirt", "Kids", "Summer", "Cotton"],
+    "relatedProducts": ["T-shirt"],
+    "color": ["red"],
+    "availableColors": ["yellow", "White", "red", "black"],
+    "quantity": 10,
+    "description": "Keep your little one looking stylish and feeling comfortable with our Kids' T-shirt. Made from soft and breathable cotton fabric, this classic t-shirt features a crew neckline and short sleeves. Perfect for everyday wear, playtime, or casual outings, this versatile shirt will become a favorite in your child's wardrobe.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Crew neckline",
+      "Short sleeves"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "2-3 Years": "Chest 22-23\", Height 35-38\"",
+      "4-5 Years": "Chest 24-25\", Height 39-44\"",
+      "6-7 Years": "Chest 26-27\", Height 45-50\"",
+      "8-9 Years": "Chest 28-29\", Height 51-54\""
+    },
+    "fit": "Regular fit. Model is 4'2\" and wearing size 4-5 Years.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "2-3 Years": { "chest": 22, "length": 16 },
+        "4-5 Years": { "chest": 24, "length": 17 },
+        "6-7 Years": { "chest": 26, "length": 18 },
+        "8-9 Years": { "chest": 28, "length": 19 }
+      },
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Tag-free neck label", "Double-needle stitching"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/front-view-boy-winking-showing-tongue_23-2148356551.jpg?t=st=1714451540~exp=1714455140~hmac=794ce413cab97607df8745cad99f7f3d4e725b63e9108c2048ee5d5fe88b8b5b&w=360"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "FootWear",
+    "company": "Nike",
+    "name": "Women's Sneakers",
+    "price": 2235,
+    "origPrice": 4299,
+    "discount": 48,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "These sneakers are amazing! Comfortable and stylish."
+    },
+    "productType": [
+      "sneakers",
+      "shoes",
+      "summer",
+      "leather shoes",
+      "leather",
+      "Casual",
+      "Athletic",
+      "Lace-up"
+    ],
+    "relatedProducts": ["sneakers", "shoes"],
+    "color": ["white", "Beige"],
+    "availableColors": ["white"],
+    "quantity": 10,
+    "description": "Step up your casual footwear game with our Women's Sneakers. These versatile sneakers feature a classic lace-up design and a durable rubber outsole for traction and stability. Whether you're running errands or hitting the gym, these sneakers will keep you comfortable and stylish all day long.",
+    "features": [
+      "Classic lace-up design",
+      "Durable rubber outsole",
+      "Comfortable fit"
+    ],
+    "material": "Textile upper, rubber outsole",
+    "careInstructions": "Spot clean",
+    "sizeGuide": {
+      "US 5": "EU 35, UK 2.5, Foot length 8.66 inches",
+      "US 6": "EU 36, UK 3.5, Foot length 8.86 inches",
+      "US 7": "EU 37, UK 4.5, Foot length 9.25 inches",
+      "US 8": "EU 38, UK 5.5, Foot length 9.45 inches"
+    },
+    "fit": "True to size",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.2 lbs",
+      "additionalFeatures": ["Padded collar and tongue", "Breathable lining"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/female-slender-legs-beige-casual-sneakers-with-laces-women-s-stylish-leather-summer-shoes_173815-36312.jpg?w=360",
+      "https://img.freepik.com/premium-photo/female-slender-legs-beige-casual-sneakers-with-laces-women-s-stylish-leather-summer-shoes_173815-36310.jpg?w=360",
+      "https://img.freepik.com/premium-photo/female-beautiful-legs-beige-casual-sneakers-women-s-stylish-leather-summer-shoes_173815-36509.jpg?w=360"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Men",
+    "company": "Roadster",
+    "name": "Men's Dress Shirt",
+    "price": 1119,
+    "origPrice": 1399,
+    "discount": 20,
+    "reviews": {
+      "averageRating": 4.5,
+      "totalReviews": 0,
+      "sampleReview": "Love this shirt! Great quality and fits perfectly."
+    },
+    "productType": [
+      "Dress Shirt",
+      "shirt",
+      "summer",
+      "cotton",
+      "striped",
+      "stripes"
+    ],
+    "relatedProducts": ["shirt"],
+    "color": ["white", "green"],
+    "availableColors": ["green"],
+    "quantity": 10,
+    "description": "Elevate your wardrobe with our timeless Classic Dress Shirt. Made from premium cotton fabric, this shirt features a traditional button-down collar and tailored fit for a polished look. Perfect for both casual and formal occasions, this versatile shirt will be a staple in your wardrobe for years to come.",
+    "features": ["Button-down collar", "Tailored fit", "Premium cotton fabric"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, iron if needed",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "True to size. Model is 6'0\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-5 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 9.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": { "Pink": ["Medium"] }
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 20, "length": 28 },
+        "Medium": { "chest": 22, "length": 29 },
+        "Large": { "chest": 24, "length": 30 },
+        "X-Large": { "chest": 26, "length": 31 }
+      },
+      "weight": "0.5 lbs",
+      "additionalFeatures": ["Button-down collar", "Single chest pocket"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/young-handsome-hipster-modern-man-outdoor_20279-245.jpg?w=360",
+      "https://img.freepik.com/premium-photo/young-handsome-hipster-modern-man-outdoor_20279-207.jpg?w=360",
+      "https://img.freepik.com/premium-photo/young-handsome-hipster-modern-man-outdoor-using-tablet_20279-238.jpg?w=360",
+      "https://img.freepik.com/premium-photo/young-handsome-hipster-modern-man-outdoor_20279-243.jpg?w=360"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Men",
+    "company": "Roadster",
+    "name": "Stylish T-Shirt",
+    "price": 989,
+    "origPrice": 1799,
+    "discount": 45,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Great fit and quality material!"
+    },
+    "productType": [
+      "T Shirt",
+      "T-shirt",
+      "summer",
+      "cotton",
+      "rounded neck",
+      "Casual",
+      "Summer",
+      "Short Sleeve"
+    ],
+    "relatedProducts": ["T-shirt"],
+    "color": ["black"],
+    "availableColors": ["black"],
+    "quantity": 10,
+    "description": "Upgrade your casual wardrobe with our Men Stylish T-Shirt. Crafted from soft and breathable cotton fabric, this t-shirt features a crew neckline and short sleeves for a classic look. Perfect for everyday wear, this stylish t-shirt pairs well with jeans or shorts for a relaxed yet trendy ensemble.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Crew neckline",
+      "Short sleeves"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 34-36\", Length 28\"",
+      "Medium": "Chest 38-40\", Length 29\"",
+      "Large": "Chest 42-44\", Length 30\"",
+      "X-Large": "Chest 46-48\", Length 31\""
+    },
+    "fit": "Regular fit",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Ribbed neckline", "Double-stitched hem"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/cool-black-guy-with-curly-hair-sunglasses_23-2148205403.jpg?t=st=1714105932~exp=1714109532~hmac=099c474799a9a16a0f40dad5bdf62cee43fdc94fb05be595a0d2b090f8b19a26&w=360",
+      "https://img.freepik.com/free-photo/young-ethnic-man-sunglasses-sitting-against-grey-wall_23-2148205514.jpg?t=st=1714106009~exp=1714109609~hmac=b1276df680e34ca56cb7a1152613ac873991eb8bd04f357bee9692bef286d986&w=360"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Boys",
+    "company": "H&M",
+    "name": "Kids' T-shirt",
+    "price": 359,
+    "origPrice": 799,
+    "discount": 55,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "My kid loves this shirt! Comfortable and great quality."
+    },
+    "productType": ["T-shirt", "Kids", "Summer", "Cotton"],
+    "relatedProducts": ["T-shirt"],
+    "color": ["white"],
+    "availableColors": ["yellow", "White", "red", "black"],
+    "quantity": 10,
+    "description": "Keep your little one looking stylish and feeling comfortable with our Kids' T-shirt. Made from soft and breathable cotton fabric, this classic t-shirt features a crew neckline and short sleeves. Perfect for everyday wear, playtime, or casual outings, this versatile shirt will become a favorite in your child's wardrobe.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Crew neckline",
+      "Short sleeves"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "2-3 Years": "Chest 22-23\", Height 35-38\"",
+      "4-5 Years": "Chest 24-25\", Height 39-44\"",
+      "6-7 Years": "Chest 26-27\", Height 45-50\"",
+      "8-9 Years": "Chest 28-29\", Height 51-54\""
+    },
+    "fit": "Regular fit. Model is 4'2\" and wearing size 4-5 Years.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "2-3 Years": { "chest": 22, "length": 16 },
+        "4-5 Years": { "chest": 24, "length": 17 },
+        "6-7 Years": { "chest": 26, "length": 18 },
+        "8-9 Years": { "chest": 28, "length": 19 }
+      },
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Tag-free neck label", "Double-needle stitching"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/smiley-young-boy-pointing-up_23-2148414467.jpg?t=st=1714451808~exp=1714455408~hmac=0a8473bdc256497bf1680d52a5d50cb9bf8f0c69f8a2fc06c315f7b250047546&w=360",
+      "https://img.freepik.com/free-photo/smiley-young-boy-pointing_23-2148414489.jpg?t=st=1714451963~exp=1714455563~hmac=d80ae3dc1a73a144eb4ef803a2f65025bd43b406a0fe3448b33968a0f7322888&w=360"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Women",
+    "company": "Mast & Harbour",
+    "name": "Women Trousers",
+    "price": 899,
+    "origPrice": 1499,
+    "discount": 40,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "These trousers are so comfortable and stylish!"
+    },
+    "productType": [
+      "Trousers",
+      "office",
+      "formal",
+      "Casual",
+      "Spring",
+      "Summer"
+    ],
+    "relatedProducts": ["Trousers"],
+    "color": ["black"],
+    "availableColors": ["black"],
+    "quantity": 10,
+    "description": "Add a touch of sophistication to your wardrobe with our Women Trousers. Crafted from soft and stretchy fabric, these trousers feature a mid-rise waist and straight-leg silhouette for a flattering fit. Perfect for both casual and semi-formal occasions, these versatile trousers will become your go-to choice for effortless style.",
+    "features": [
+      "Soft and stretchy fabric",
+      "Mid-rise waist",
+      "Straight-leg silhouette"
+    ],
+    "material": "95% cotton, 5% spandex",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Waist 26-28\", Hips 36-38\"",
+      "Medium": "Waist 28-30\", Hips 38-40\"",
+      "Large": "Waist 30-32\", Hips 40-42\"",
+      "X-Large": "Waist 32-34\", Hips 42-44\""
+    },
+    "fit": "Regular fit",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.6 lbs",
+      "additionalFeatures": ["Front slash pockets", "Back welt pockets"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/busy-businesswoman-talking-mobile-phone_329181-3910.jpg?t=st=1714113443~exp=1714117043~hmac=32651052a8f0dd2a69b6dd9bb9017f03cbdec9fd85a0d021aca6783b23fb725a&w=360",
+      "https://img.freepik.com/free-photo/busy-businesswoman-talking-mobile-phone_329181-3910.jpg?t=st=1714113443~exp=1714117043~hmac=32651052a8f0dd2a69b6dd9bb9017f03cbdec9fd85a0d021aca6783b23fb725a&w=360"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Women",
+    "company": "Mast & Harbour",
+    "name": "Trendy Jacket",
+    "price": 1007,
+    "origPrice": 2399,
+    "discount": 70,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this jacket! It's stylish and comfortable."
+    },
+    "productType": [
+      "jacket",
+      "sweater",
+      "warm",
+      "winter",
+      "hoodie",
+      "Trendy",
+      "Spring",
+      "Fall"
+    ],
+    "relatedProducts": ["jacket", "sweater"],
+    "color": ["green"],
+    "availableColors": ["green"],
+    "quantity": 10,
+    "description": "Stay on-trend with our Women Trendy Jacket. Crafted from high-quality materials, this jacket features a modern design with a flattering fit. Whether you're running errands or meeting friends, this versatile jacket will elevate your look.",
+    "features": ["Modern design", "Flattering fit", "High-quality materials"],
+    "material": "Polyester blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Medium": "Bust 36-38\", Waist 28-30\", Hips 38-40\"",
+      "Large": "Bust 38-40\", Waist 30-32\", Hips 40-42\"",
+      "X-Large": "Bust 40-42\", Waist 32-34\", Hips 42-44\""
+    },
+    "fit": "Regular fit",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.2 lbs",
+      "additionalFeatures": [
+        "Front zipper closure",
+        "Side pockets",
+        "Adjustable cuffs"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-psd/full-shot-woman-wearing-winter-clothes_23-2148933167.jpg?w=360",
+      "https://img.freepik.com/premium-psd/full-shot-woman-with-warm-clothes_23-2148933186.jpg?w=360",
+      "https://img.freepik.com/premium-psd/full-shot-model-wearing-winter-clothes_23-2148933168.jpg?w=360"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Men",
+    "company": "Mast & Harbour",
+    "name": "Trendy Jacket",
+    "price": 1499,
+    "origPrice": 1999,
+    "discount": 25,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this jacket! Stylish and comfortable, perfect for any occasion."
+    },
+    "productType": [
+      "jacket",
+      "sweater",
+      "warm",
+      "winter",
+      "hoodie",
+      "Trendy",
+      "Spring",
+      "Fall"
+    ],
+    "relatedProducts": ["jacket", "sweater"],
+    "color": ["black"],
+    "availableColors": ["black"],
+    "quantity": 10,
+    "description": "Stay on-trend with our Men Trendy Jacket. Crafted from durable materials, this jacket features a modern design with a relaxed fit. Whether you're heading to work or out for the weekend, this versatile jacket will keep you looking stylish.",
+    "features": ["Modern design", "Relaxed fit", "Durable materials"],
+    "material": "Polyester blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 38-40\", Waist 30-32\"",
+      "Medium": "Chest 40-42\", Waist 32-34\"",
+      "Large": "Chest 42-44\", Waist 34-36\"",
+      "X-Large": "Chest 44-46\", Waist 36-38\""
+    },
+    "fit": "Relaxed fit",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.5 lbs",
+      "additionalFeatures": [
+        "Front zipper closure",
+        "Side pockets",
+        "Adjustable cuffs"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/high-angle-boy-holding-camera_23-2148478767.jpg?t=st=1714115972~exp=1714119572~hmac=7470806a55d68e7acf70d263e64a560cd2fe694beb330a9ed42e80e646c4f0f9&w=360",
+      "https://img.freepik.com/free-photo/teenage-boy-with-cassette_23-2148478723.jpg?t=st=1714116030~exp=1714119630~hmac=360bc900b362ef29e1ecc0018cbf45de0ed7d438ea3d4a84cc9f9e3005b1ec78&w=360"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "FootWear",
+    "company": "Nike",
+    "name": "Sporty Sneakers",
+    "price": 989,
+    "origPrice": 3299,
+    "discount": 70,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "These sneakers are amazing! Comfortable and stylish, perfect for any workout."
+    },
+    "productType": ["shoes", "sneakers", "bright", "Sporty", "Athletic"],
+    "relatedProducts": ["shoes", "sneakers"],
+    "color": ["multicolor"],
+    "availableColors": ["multicolor"],
+    "quantity": 10,
+    "description": "Step up your workout game with our Women Sporty Sneakers. Designed for comfort and performance, these sneakers feature a lightweight construction and cushioned footbed. Whether you're hitting the gym or running errands, these versatile sneakers will keep you looking and feeling great.",
+    "features": [
+      "Lightweight construction",
+      "Cushioned footbed",
+      "Breathable mesh upper"
+    ],
+    "material": "Synthetic and mesh",
+    "careInstructions": "Spot clean",
+    "sizeGuide": {
+      "US 5": "EU 35, UK 3",
+      "US 6": "EU 36, UK 4",
+      "US 7": "EU 37, UK 5",
+      "US 8": "EU 38, UK 6",
+      "US 9": "EU 39, UK 7",
+      "US 10": "EU 40, UK 8"
+    },
+    "fit": "True to size",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Lace-up closure",
+        "Padded collar and tongue",
+        "Durable rubber outsole"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/sports-footwear-black-background_22736-1198.jpg?w=360",
+      "https://img.freepik.com/premium-photo/sports-footwear-black-background_22736-1195.jpg?w=360"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Boys",
+    "company": "H&M",
+    "name": "Kids' T-shirt",
+    "price": 359,
+    "origPrice": 799,
+    "discount": 55,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "My kid loves this shirt! Comfortable and great quality."
+    },
+    "productType": ["T-shirt", "Kids", "Summer", "Cotton"],
+    "relatedProducts": ["T-shirt"],
+    "color": ["black"],
+    "availableColors": ["yellow", "White", "red", "black"],
+    "quantity": 10,
+    "description": "Keep your little one looking stylish and feeling comfortable with our Kids' T-shirt. Made from soft and breathable cotton fabric, this classic t-shirt features a crew neckline and short sleeves. Perfect for everyday wear, playtime, or casual outings, this versatile shirt will become a favorite in your child's wardrobe.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Crew neckline",
+      "Short sleeves"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "2-3 Years": "Chest 22-23\", Height 35-38\"",
+      "4-5 Years": "Chest 24-25\", Height 39-44\"",
+      "6-7 Years": "Chest 26-27\", Height 45-50\"",
+      "8-9 Years": "Chest 28-29\", Height 51-54\""
+    },
+    "fit": "Regular fit. Model is 4'2\" and wearing size 4-5 Years.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "2-3 Years": { "chest": 22, "length": 16 },
+        "4-5 Years": { "chest": 24, "length": 17 },
+        "6-7 Years": { "chest": 26, "length": 18 },
+        "8-9 Years": { "chest": 28, "length": 19 }
+      },
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Tag-free neck label", "Double-needle stitching"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/mother-son-spend-time-outdoors-park_1328-1895.jpg?t=st=1714452077~exp=1714455677~hmac=5f305f80450e5528868364121c6531cb7ec087bdfc705ba7ae9257cf64614258&w=360"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Men",
+    "company": "HRX",
+    "name": "Slim-fit Chinos",
+    "price": 1379,
+    "origPrice": 2299,
+    "discount": 40,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "These chinos are fantastic! Great fit and very comfortable."
+    },
+    "productType": [
+      "pant",
+      "jeans",
+      "slim fit",
+      "trousers",
+      "Chinos",
+      "Slim-fit",
+      "Casual",
+      "Pants"
+    ],
+    "relatedProducts": ["pant", "jeans", "pants"],
+    "color": ["blue"],
+    "availableColors": ["blue"],
+    "quantity": 10,
+    "description": "Update your casual wardrobe with our Men Slim-fit Chinos. Crafted from durable cotton twill fabric, these chinos feature a slim-fit design for a modern look. Perfect for everyday wear, these versatile pants will become your new go-to.",
+    "features": [
+      "Slim-fit design",
+      "Durable cotton twill fabric",
+      "Belt loops",
+      "Side pockets",
+      "Back welt pockets"
+    ],
+    "material": "98% cotton, 2% elastane",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "28": "Waist 28\", Inseam 30\"",
+      "30": "Waist 30\", Inseam 32\"",
+      "32": "Waist 32\", Inseam 32\"",
+      "34": "Waist 34\", Inseam 34\"",
+      "36": "Waist 36\", Inseam 34\""
+    },
+    "fit": "Slim-fit. Model is 6'2\" and wearing a size 32.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": [
+        "Zip fly with button closure",
+        "Belt loops",
+        "Machine washable"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/portrait-young-man-standing-against-wall_1048944-12369680.jpg?w=360"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Men",
+    "company": "H&M",
+    "name": "Polo Shirt",
+    "price": 1188,
+    "origPrice": 1949,
+    "discount": 39,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Excellent polo shirt! Comfortable and stylish."
+    },
+    "productType": [
+      "shirt",
+      "T-shirt",
+      "T Shirt",
+      "polo shirt",
+      "Polo Shirt",
+      "Summer",
+      "Cotton",
+      "Casual"
+    ],
+    "relatedProducts": ["T-shirt"],
+    "color": ["black"],
+    "availableColors": ["black"],
+    "quantity": 10,
+    "description": "Stay cool and comfortable with our Men's Polo Shirt. Crafted from soft cotton fabric, this classic polo features a three-button placket and ribbed cuffs for a sporty yet polished look. Perfect for casual outings or weekend gatherings, this versatile shirt will keep you looking stylish all season long.",
+    "features": [
+      "Three-button placket",
+      "Ribbed cuffs",
+      "Soft cotton fabric",
+      "Classic fit"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "Classic fit. Model is 6'1\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-5 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 7.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": [
+        "Embroidered logo on chest",
+        "Side vents for breathability"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/man-wearing-blank-shirt_23-2149347508.jpg?t=st=1714107393~exp=1714110993~hmac=6500f7ac1d7e57b34fed316fa742f592bce22c46799c04ed3a4adc64ebf07b34&w=360",
+      "https://img.freepik.com/free-photo/man-wearing-blank-shirt_23-2149347509.jpg?t=st=1714107438~exp=1714111038~hmac=131f4375ba668472b791cb2e1f7e65ada38ae8ab79e9af05a3bc4f1d6081c020&w=360"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Girls",
+    "company": "HERE&NOW",
+    "name": "Princess Dress",
+    "price": 1086,
+    "origPrice": 3748,
+    "discount": 71,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely adorable! My daughter loves it!"
+    },
+    "productType": [
+      "princess",
+      "dress",
+      "disney",
+      "Princess Dress",
+      "Party Wear",
+      "Tulle",
+      "Sequins"
+    ],
+    "relatedProducts": ["dress"],
+    "color": ["pink"],
+    "availableColors": ["pink"],
+    "quantity": 10,
+    "description": "Let your little princess shine in this enchanting Girls Princess Dress. Made with soft tulle fabric and adorned with sparkling sequins, this dress is perfect for special occasions and dress-up play. With its elegant design and comfortable fit, it will make her feel like royalty.",
+    "features": [
+      "Soft tulle fabric",
+      "Sparkling sequins",
+      "Zipper closure at the back",
+      "Satin ribbon waistband"
+    ],
+    "material": "Tulle, Sequins",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "2T": "Chest 20-21\", Waist 19-20\"",
+      "3T": "Chest 21-22\", Waist 20-21\"",
+      "4T": "Chest 22-23\", Waist 21-22\"",
+      "5T": "Chest 23-24\", Waist 22-23\""
+    },
+    "fit": "True to size. Model is 3 years old and wearing size 3T.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": ["Lined with soft fabric for comfort"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/baby-girl-costumes-masha-from-cartoon-masha-bear-autumn-forest_231208-7739.jpg?t=st=1714107583~exp=1714111183~hmac=4cf4c22850a063979558a7b7f476c82e76e1ea6f524ff59f9398f802c1f2f702&w=360",
+      "https://img.freepik.com/free-photo/cute-kid-girl-pink-shawl-dress-white-jacket-like-masha-bear-from-cartoon_231208-7732.jpg?t=st=1714107889~exp=1714111489~hmac=2ea6c79c0784ac3a6ca9c4660fbec1fa5b5c1638a45acd61008e8714299f37c5&w=360"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Maxi Skirt",
+    "price": 799,
+    "origPrice": 1999,
+    "discount": 60,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this skirt! It's so comfortable and looks great."
+    },
+    "productType": [
+      "skirt",
+      "long skirt",
+      "maxi skirt",
+      "Summer",
+      "Casual",
+      "Elastic Waistband"
+    ],
+    "relatedProducts": ["long skirt", "maxi skirt"],
+    "color": ["blue"],
+    "availableColors": ["blue"],
+    "quantity": 10,
+    "description": "Stay stylish and comfortable all day long with our Women Maxi Skirt. Made from soft and lightweight fabric, this skirt features an elastic waistband for a comfortable fit and a flowing silhouette that flatters every body type. Perfect for casual outings or dress it up for a night out.",
+    "features": [
+      "Soft and lightweight fabric",
+      "Elastic waistband",
+      "Flowing silhouette"
+    ],
+    "material": "Polyester, Spandex",
+    "careInstructions": "Machine wash cold, gentle cycle, tumble dry low",
+    "sizeGuide": {
+      "Small": "Waist 25-27\", Length 39\"",
+      "Medium": "Waist 28-30\", Length 40\"",
+      "Large": "Waist 31-33\", Length 41\"",
+      "X-Large": "Waist 34-36\", Length 42\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing size Small.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.6 lbs",
+      "additionalFeatures": ["Side pockets for convenience"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/fashion-outdoor-portrait-sensual-beautiful-brunette-woman-with-amazing-long-hairs-any-bright-make-up-posing-near-exotic-plants-summer-day-wearing-luxury-silk-bright-dress-necklace_291049-1668.jpg?t=st=1714108072~exp=1714111672~hmac=cd6938330a3184d7bf6119f993a8767255a5846b3fb7e7994c1c8f2384330069&w=360",
+      "https://img.freepik.com/free-photo/fashion-outdoor-portrait-sensual-beautiful-brunette-woman-with-amazing-long-hairs-any-bright-make-up-posing-near-exotic-plants-summer-day-wearing-luxury-silk-bright-dress-necklace_291049-1666.jpg?t=st=1714108123~exp=1714111723~hmac=8ccfb82dd0cdddc152ee3a9ede8154d67e1f940eaf9c083eb3eb28d4e04c2d36&w=360"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Women",
+    "company": "Sangria",
+    "name": "Off-shoulder Blouse",
+    "price": 1119,
+    "origPrice": 1399,
+    "discount": 20,
+    "reviews": {
+      "averageRating": 4.3,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely stunning blouse! Fits perfectly and looks great."
+    },
+    "productType": [
+      "top",
+      "off shoulder",
+      "blouse",
+      "Off-shoulder Blouse",
+      "Summer",
+      "Casual",
+      "Elegant"
+    ],
+    "relatedProducts": ["top"],
+    "color": ["pink"],
+    "availableColors": ["pink"],
+    "quantity": 10,
+    "description": "Get ready for summer with our chic Off-shoulder Blouse. Made from lightweight and breathable fabric, this blouse features an off-shoulder design and flowy silhouette for a flattering fit. Perfect for pairing with jeans or skirts, this blouse adds a touch of elegance to any outfit.",
+    "features": [
+      "Off-shoulder design",
+      "Lightweight and breathable fabric",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Length 20\"",
+      "Medium": "Bust 34-36\", Length 21\"",
+      "Large": "Bust 36-38\", Length 22\"",
+      "X-Large": "Bust 38-40\", Length 23\""
+    },
+    "fit": "True to size. Model is 5'6\" and wearing size Small.",
+    "shipping": {
+      "estimatedDelivery": "4-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": { "Pink": ["Medium"] }
+    },
+    "specifications": {
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Elasticized neckline for a comfortable fit"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-young-woman-looking-away-while-standing-outdoors_1048944-29816492.jpg?w=360"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Girls",
+    "company": "Anouk",
+    "name": "Pajamas",
+    "price": 959,
+    "origPrice": 1499,
+    "discount": 36,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Adorable pajamas! My daughter loves them and they're so soft."
+    },
+    "productType": ["Pajamas", "checked", "christmas", "Sleepwear", "Cotton"],
+    "relatedProducts": ["pajamas", "Sleepwear"],
+    "color": ["red"],
+    "availableColors": ["red"],
+    "quantity": 10,
+    "description": "Let your little one sleep comfortably with our Girls Pajamas. Made from soft and breathable cotton fabric, these pajamas feature fun prints and patterns that your child will love. With an elastic waistband and ribbed cuffs, these pajamas ensure a snug fit for a good night's sleep.",
+    "features": [
+      "Soft and breathable cotton fabric",
+      "Fun prints and patterns",
+      "Elastic waistband",
+      "Ribbed cuffs"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, gentle cycle, tumble dry low",
+    "sizeGuide": {
+      "2T": "Height 33-35\", Weight 26-29 lbs",
+      "3T": "Height 36-38\", Weight 29-32 lbs",
+      "4T": "Height 39-41\", Weight 33-36 lbs",
+      "5T": "Height 42-44\", Weight 37-42 lbs"
+    },
+    "fit": "True to size. Model is wearing size 4T.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": { "Purple": ["3T", "4T"] }
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Tagless design for added comfort"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-little-girl-christmas-pajamas-red-cage-is-standing-bed_495771-2312.jpg?w=360",
+      "https://img.freepik.com/premium-photo/beautiful-little-girl-christmas-pajamas-red-cage-sitting-bed_495771-2316.jpg?w=900"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Accessories",
+    "company": "Tokyo Talkies",
+    "name": "Aviator Sunglasses",
+    "price": 639,
+    "origPrice": 1999,
+    "discount": 68,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "These sunglasses are awesome! They look stylish and offer great protection from the sun."
+    },
+    "productType": ["Sunglasses", "glasses"],
+    "relatedProducts": ["Sunglasses", "glasses"],
+    "color": ["black"],
+    "availableColors": ["black"],
+    "quantity": 10,
+    "description": "Shield your eyes from the sun in style with our Men's Aviator Sunglasses. These classic aviator sunglasses feature a metal frame and tinted lenses for a sleek and timeless look. Whether you're driving or spending time outdoors, these sunglasses will add a touch of sophistication to any outfit.",
+    "features": [
+      "Classic aviator design",
+      "Metal frame",
+      "Tinted lenses",
+      "100% UV protection"
+    ],
+    "material": "Metal frame, polycarbonate lenses",
+    "sizeGuide": {
+      "One Size": "Fits most"
+    },
+    "fit": "One size fits most.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": { "width": 5.5, "height": 2 },
+      "weight": "0.1 lbs",
+      "additionalFeatures": [
+        "Adjustable nose pads",
+        "Comes with a protective case"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for defects or damages only.",
+      "shippingCosts": "Free return shipping on defective or damaged items."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/portrait-handsome-fashion-businessman-model-dressed-elegant-blue-suit-with-sunglasses_158538-4439.jpg?t=st=1714112722~exp=1714116322~hmac=366e63bcb84fc6c8cb1a612b749d8b4d50eb69018d7c314e3b2fe777179fed50&w=360",
+      "https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-gray_158538-11147.jpg?t=st=1714108956~exp=1714112556~hmac=d75062e250d5b00f20b677d6e23f6c494effa4b62f2ced0a30ba17552fe469b1&w=826",
+      "https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-sunglasses-posing-gray_158538-4467.jpg?t=st=1714108991~exp=1714112591~hmac=7ff5e2ba169ae600c0d9361d4f4facd433741d433dfdd3637b03940c245340dc&w=360"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Accessories",
+    "company": "Tokyo Talkies",
+    "name": "Leather Belt",
+    "price": 2210,
+    "origPrice": 3299,
+    "discount": 33,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "This belt is fantastic! The leather is of excellent quality, and it fits perfectly."
+    },
+    "productType": ["leather", "belt", "leather belt"],
+    "relatedProducts": ["belt"],
+    "color": ["brown"],
+    "availableColors": ["brown", "black", "tan"],
+    "quantity": 10,
+    "description": "Complete your look with our Men's Leather Belt. Crafted from genuine leather, this belt is durable and stylish. The classic design and versatile color options make it suitable for both casual and formal wear. Whether you're dressing up for a special occasion or adding a finishing touch to your everyday outfits, this belt will elevate your style.",
+    "features": [
+      "Genuine leather",
+      "Classic design",
+      "Adjustable buckle closure"
+    ],
+    "material": "Genuine leather",
+    "sizeGuide": {
+      "Small": "Fits waist sizes 28-32\"",
+      "Medium": "Fits waist sizes 32-36\"",
+      "Large": "Fits waist sizes 36-40\"",
+      "X-Large": "Fits waist sizes 40-44\""
+    },
+    "fit": "True to size.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": { "width": 1.5, "length": "varies based on size" },
+      "weight": "0.3 lbs",
+      "additionalFeatures": ["Classic metal buckle", "Embossed logo detail"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/waist-belt_631068-3663.jpg?w=360"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Women's Floral Dress",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "floral",
+      "floral dress",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["teal"],
+    "availableColors": ["pink", "navy", "white", "teal"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our Women's Floral Dress. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/woman-blue-floral-dress-looking-camera_23-2148261284.jpg?t=st=1714393943~exp=1714397543~hmac=d52bd832284071bf3561a8a766cf268e9c66ef328ebbfc796a8fa75670fe3828&w=360",
+      "https://img.freepik.com/free-photo/front-view-woman-green-house_23-2148261258.jpg?t=st=1714394191~exp=1714397791~hmac=ef4af02c806a5dc61929d9e14b9be626955302888c375fd8da25e04074ec57a6&w=360",
+      "https://img.freepik.com/free-photo/high-view-woman-holding-her-arms-air_23-2148261259.jpg?t=st=1714394222~exp=1714397822~hmac=6d2bd3ea10e2c6ae2bee41a17f46c70dc6604bbf53fcd91e7a68c5e57fef7cb3&w=360",
+      "https://img.freepik.com/free-photo/woman-with-braided-hair-closed-eyes_23-2148261283.jpg?t=st=1714394281~exp=1714397881~hmac=bb09796dbb98a357baa52b1e17a89e30dcbafa714a439fd59ff86208e273b7ad&w=360"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Men",
+    "company": "Anouk",
+    "name": "Men Kurta-pyjama",
+    "color": ["beige"],
+    "availableColors": ["navy", "beige"],
+    "price": 1044,
+    "origPrice": 1899,
+    "discount": 45,
+    "reviews": {
+      "averageRating": 4.7,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this kurta-pyjama set! Great fit and comfortable fabric."
+    },
+    "quantity": 20,
+    "productType": [
+      "kurta",
+      "pyjama",
+      "kurta pyjama",
+      "traditional",
+      "Ethnic Wear",
+      "Festive Wear"
+    ],
+    "relatedProducts": ["kurta", "pyjama", "kurta pyjama"],
+    "description": "Dress elegantly for special occasions with our Men Kurta-pyjama set. Made from high-quality cotton fabric, this set features a classic kurta with intricate embroidery and matching pyjamas for a complete ethnic look. Elevate your festive attire with this stylish ensemble.",
+    "features": [
+      "Classic kurta with intricate embroidery",
+      "Matching pyjamas",
+      "Comfortable cotton fabric"
+    ],
+    "material": "Cotton",
+    "careInstructions": "Dry clean recommended, gentle hand wash in cold water, do not bleach, hang dry in shade",
+    "sizeGuide": {
+      "Small": "Chest 38\", Length 42\", Pyjama Waist 30\"",
+      "Medium": "Chest 40\", Length 44\", Pyjama Waist 32\"",
+      "Large": "Chest 42\", Length 46\", Pyjama Waist 34\"",
+      "X-Large": "Chest 44\", Length 48\", Pyjama Waist 36\""
+    },
+    "fit": "Regular fit. Model is 6'2\" and wearing a size Large.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "1.2 lbs",
+      "additionalFeatures": [
+        "Embroidered collar and cuffs",
+        "Drawstring closure on pyjamas"
+      ]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45374.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45400.jpg?w=360",
+      "https://img.freepik.com/premium-photo/indian-man-traditional-wear-kurta-pyjama-cloths-male-fashion-model-sherwani-posing-standing-against-brown-grunge-background-selective-focus_466689-45368.jpg?w=360"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Women's Floral Dress",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "floral",
+      "floral dress",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["white"],
+    "availableColors": ["pink", "navy", "white", "teal"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our Women's Floral Dress. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/cute-girl-beautiful-dress-brown-hair_170362-1682.jpg?w=360",
+      "https://img.freepik.com/premium-photo/cute-girl-beautiful-dress-brown-hair_170362-1658.jpg?w=360",
+      "https://img.freepik.com/premium-photo/cute-girl-beautiful-dress-brown-hair_170362-1680.jpg?w=360"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Fancy saree",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "saree",
+      "fancy",
+      "traditional"
+    ],
+    "relatedProducts": ["saree"],
+    "color": ["cadetblue"],
+    "availableColors": ["cadetblue"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our fancy saree. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400849.jpg?t=st=1714408385~exp=1714411985~hmac=a6fe804a31fb5783268134a5f60ed91d1d5ead002c222d91b9df94b523c2c64c&w=360",
+      "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400849.jpg?t=st=1714408385~exp=1714411985~hmac=a6fe804a31fb5783268134a5f60ed91d1d5ead002c222d91b9df94b523c2c64c&w=360",
+      "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400850.jpg?t=st=1714408643~exp=1714412243~hmac=fb98df90e6cfde22600e5710850c92bdabdc767e1c874600b90814e8e74e84c4&w=360"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Women",
+    "company": "Sangria",
+    "name": "Traditional Kurta",
+    "color": ["white", "pink"],
+    "availableColors": ["purple", "white", "yellow"],
+    "price": 1623,
+    "origPrice": 5599,
+    "discount": 71,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Beautiful color and comfortable fit. Great for festive occasions!"
+    },
+    "productType": [
+      "kurta",
+      "Ethnic Wear",
+      "kurta Set",
+      "traditional",
+      "Cotton",
+      "Long Sleeve"
+    ],
+    "relatedProducts": ["kurta", "kurta set"],
+    "quantity": 15,
+    "description": "Step into elegance with our Traditional white Kurta. Crafted from premium cotton fabric, this kurta features intricate detailing and a comfortable fit. Perfect for festive occasions or casual gatherings, this kurta will add a touch of sophistication to your wardrobe.",
+    "features": [
+      "Intricate detailing",
+      "Comfortable fit",
+      "Premium cotton fabric"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Dry clean only",
+    "sizeGuide": {
+      "Small": "Chest 38\", Length 42\"",
+      "Medium": "Chest 40\", Length 43\"",
+      "Large": "Chest 42\", Length 44\"",
+      "X-Large": "Chest 44\", Length 45\""
+    },
+    "fit": "Regular fit. Model is 5'10\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 19, "length": 41 },
+        "Medium": { "chest": 20, "length": 42 },
+        "Large": { "chest": 21, "length": 43 },
+        "X-Large": { "chest": 22, "length": 44 }
+      },
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Mandarin collar", "Side slits"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-model-girl-side-pose-wearing-white-desi-dress-fashion-shoot-room_658768-817.jpg?w=360",
+      "https://img.freepik.com/premium-photo/beautiful-young-girl-wearing-white-traditional-dress-fashion-shoot-room_658768-823.jpg?w=360"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Women",
+    "company": "Sangria",
+    "name": "Traditional Kurta",
+    "color": ["yellow", "orange"],
+    "availableColors": ["purple", "white", "yellow"],
+    "price": 1623,
+    "origPrice": 5599,
+    "discount": 71,
+    "reviews": {
+      "averageRating": 4.2,
+      "totalReviews": 0,
+      "sampleReview": "Beautiful color and comfortable fit. Great for festive occasions!"
+    },
+    "productType": [
+      "kurta",
+      "Ethnic Wear",
+      "kurta Set",
+      "traditional",
+      "Cotton",
+      "Long Sleeve"
+    ],
+    "relatedProducts": ["kurta", "kurta set"],
+    "quantity": 15,
+    "description": "Step into elegance with our Traditional yellow Kurta. Crafted from premium cotton fabric, this kurta features intricate detailing and a comfortable fit. Perfect for festive occasions or casual gatherings, this kurta will add a touch of sophistication to your wardrobe.",
+    "features": [
+      "Intricate detailing",
+      "Comfortable fit",
+      "Premium cotton fabric"
+    ],
+    "material": "100% cotton",
+    "careInstructions": "Dry clean only",
+    "sizeGuide": {
+      "Small": "Chest 38\", Length 42\"",
+      "Medium": "Chest 40\", Length 43\"",
+      "Large": "Chest 42\", Length 44\"",
+      "X-Large": "Chest 44\", Length 45\""
+    },
+    "fit": "Regular fit. Model is 5'10\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "4-6 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 19, "length": 41 },
+        "Medium": { "chest": 20, "length": 42 },
+        "Large": { "chest": 21, "length": 43 },
+        "X-Large": { "chest": 22, "length": 44 }
+      },
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Mandarin collar", "Side slits"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/gorgeous-desi-girl-portrait-wearing-yellow-floral-kurta-fashion-shoot_658768-810.jpg?w=360"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Women",
+    "company": "HERE&NOW",
+    "name": "Trendy Floral Dress",
+    "price": 1322,
+    "origPrice": 2699,
+    "discount": 51,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely love this dress! The floral pattern is beautiful and the fit is flattering."
+    },
+    "productType": [
+      "dress",
+      "long dress",
+      "Maxi Dress",
+      "western",
+      "floral",
+      "floral dress",
+      "Summer Dress"
+    ],
+    "relatedProducts": ["long dress", "Maxi Dress"],
+    "color": ["navy"],
+    "availableColors": ["navy"],
+    "quantity": 15,
+    "description": "Embrace your feminine side with our Women's Floral Dress. Crafted from lightweight fabric, this dress features a charming floral print, adjustable spaghetti straps, and a flowy silhouette. Perfect for summer days or special occasions, this dress will keep you looking stylish and comfortable.",
+    "features": [
+      "Adjustable spaghetti straps",
+      "Floral print",
+      "Flowy silhouette"
+    ],
+    "material": "Polyester",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "Small": "Bust 32-34\", Waist 24-26\", Hips 34-36\"",
+      "Medium": "Bust 34-36\", Waist 26-28\", Hips 36-38\"",
+      "Large": "Bust 36-38\", Waist 28-30\", Hips 38-40\""
+    },
+    "fit": "True to size. Model is 5'7\" and wearing a size Small.",
+    "shipping": {
+      "estimatedDelivery": "3-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.4 lbs",
+      "additionalFeatures": ["Elastic waistband", "Fully lined"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-smiling-woman-wearing-modern-trendy-dress_208024-691.jpg?w=360",
+      "https://www.freepik.com/premium-photo/beautiful-smiling-woman-wearing-modern-trendy-dress_9506779.htm#from_view=detail_alsolike"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Girls",
+    "company": "Tokyo Talkies",
+    "name": "Girl's Tulle Skirt",
+    "price": 1086,
+    "origPrice": 3748,
+    "discount": 71,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely adorable! My daughter loves it!"
+    },
+    "productType": [
+      "princess",
+      "dress",
+      "disney",
+      "Princess Dress",
+      "Party Wear",
+      "Sequins"
+    ],
+    "relatedProducts": ["dress"],
+    "color": ["navy"],
+    "availableColors": ["navy"],
+    "quantity": 10,
+    "description": "Let your little princess shine in this enchanting Girls Tulle Skirt. Made with soft tulle fabric and adorned with sparkling sequins, this dress is perfect for special occasions and dress-up play. With its elegant design and comfortable fit, it will make her feel like royalty.",
+    "features": [
+      "Soft tulle fabric",
+      "Sparkling sequins",
+      "Zipper closure at the back",
+      "Satin ribbon waistband"
+    ],
+    "material": "Tulle, Sequins",
+    "careInstructions": "Hand wash cold, line dry",
+    "sizeGuide": {
+      "2T": "Chest 20-21\", Waist 19-20\"",
+      "3T": "Chest 21-22\", Waist 20-21\"",
+      "4T": "Chest 22-23\", Waist 21-22\"",
+      "5T": "Chest 23-24\", Waist 22-23\""
+    },
+    "fit": "True to size. Model is 3 years old and wearing size 3T.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 100 },
+        "express": { "cost": 14.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.8 lbs",
+      "additionalFeatures": ["Lined with soft fabric for comfort"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/beautiful-small-girl-with-blonde-hair-fashion-military-clothing_137237-993.jpg?w=360",
+      "https://img.freepik.com/premium-photo/beautiful-small-girl-with-blonde-hair-fashion-military-clothing_137237-999.jpg?w=360",
+      "https://img.freepik.com/premium-photo/beautiful-small-girl-with-blonde-hair-fashion-military-clothing_137237-988.jpg?w=360"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Men",
+    "company": "Roadster",
+    "name": "Men's Dress Shirt",
+    "price": 1119,
+    "origPrice": 1399,
+    "discount": 20,
+    "reviews": {
+      "averageRating": 4.5,
+      "totalReviews": 0,
+      "sampleReview": "Love this shirt! Great quality and fits perfectly."
+    },
+    "productType": [
+      "Dress Shirt",
+      "shirt",
+      "summer",
+      "cotton",
+      "striped",
+      "stripes"
+    ],
+    "relatedProducts": ["shirt"],
+    "color": ["navy"],
+    "availableColors": ["navy"],
+    "quantity": 10,
+    "description": "Elevate your wardrobe with our timeless Classic Dress Shirt. Made from premium cotton fabric, this shirt features a traditional button-down collar and tailored fit for a polished look. Perfect for both casual and formal occasions, this versatile shirt will be a staple in your wardrobe for years to come.",
+    "features": ["Button-down collar", "Tailored fit", "Premium cotton fabric"],
+    "material": "100% cotton",
+    "careInstructions": "Machine wash cold, tumble dry low, iron if needed",
+    "sizeGuide": {
+      "Small": "Chest 36-38\", Waist 30-32\"",
+      "Medium": "Chest 38-40\", Waist 32-34\"",
+      "Large": "Chest 40-42\", Waist 34-36\"",
+      "X-Large": "Chest 42-44\", Waist 36-38\""
+    },
+    "fit": "True to size. Model is 6'0\" and wearing a size Medium.",
+    "shipping": {
+      "estimatedDelivery": "3-5 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 50 },
+        "express": { "cost": 9.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": { "Pink": ["Medium"] }
+    },
+    "specifications": {
+      "dimensions": {
+        "Small": { "chest": 20, "length": 28 },
+        "Medium": { "chest": 22, "length": 29 },
+        "Large": { "chest": 24, "length": 30 },
+        "X-Large": { "chest": 26, "length": 31 }
+      },
+      "weight": "0.5 lbs",
+      "additionalFeatures": ["Button-down collar", "Single chest pocket"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/free-photo/vertical-shot-concentrated-businessman-listening-carefully-with-crossed-hands_181624-29443.jpg?t=st=1714471344~exp=1714474944~hmac=61ce3137b2bdaf150106c2747243dc3582a1875436bf9610cf1fa05bb9b49c2c&w=360",
+      "https://img.freepik.com/free-photo/vertical-shot-successful-male-standing-with-hand-pocket_181624-44739.jpg?t=st=1714471569~exp=1714475169~hmac=da941653817082eefefb42403d8c8ec55560dc34f7b7381f63c3b0573aaf8088&w=360",
+      "https://img.freepik.com/free-photo/portrait-cheerful-young-hispanic-male-blue-shirt-posing-against-white-wall_181624-44847.jpg?t=st=1714471606~exp=1714475206~hmac=f510613de8fced001c7376ee48eb91770c6d2eaed47f9d44869f5aa52e75e417&w=360"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Accessories",
+    "company": "Tokyo Talkies",
+    "name": "Women Diamond Chain",
+    "color": ["silver, gold"],
+    "availableColors": ["silver"],
+    "productType": ["chain", "metal", "Jewelry", "Fashion", "diamond"],
+    "relatedProducts": ["Jewelry"],
+    "price": 1750,
+    "origPrice": 2499,
+    "discount": 30,
+    "reviews": {
+      "averageRating": 4.8,
+      "totalReviews": 0,
+      "sampleReview": "Absolutely stunning bracelets! They add such an elegant touch to any outfit."
+    },
+    "quantity": 15,
+    "description": "Add a touch of glamour to your look with our Women diamond necklaces. This set features three intricately designed chains crafted from high-quality silver-plated metal. Whether you're dressing up for a special occasion or adding sophistication to your everyday attire, these chains are sure to elevate your style.",
+    "features": [
+      "Gold plated chain with diamonds",
+      "Intricate design",
+      "High-quality gold-plated metal"
+    ],
+    "material": "silver-plated metal",
+    "careInstructions": "Avoid contact with water, perfumes, and chemicals. Store in a dry place away from direct sunlight.",
+    "sizeGuide": "One size fits most. Adjustable.",
+    "fit": "Comfortable fit for most wrist sizes.",
+    "shipping": {
+      "estimatedDelivery": "5-7 business days",
+      "options": {
+        "standard": { "cost": 0, "threshold": 75 },
+        "express": { "cost": 12.99 }
+      }
+    },
+    "availability": {
+      "inStock": true,
+      "outOfStock": {}
+    },
+    "specifications": {
+      "weight": "0.2 lbs",
+      "additionalFeatures": ["Adjustable closure", "Nickel-free and lead-free"]
+    },
+    "returnPolicy": {
+      "returns": "Returns accepted within 30 days of delivery.",
+      "exchanges": "Exchanges allowed for size or color.",
+      "shippingCosts": "Customer responsible for return shipping costs."
+    },
+    "images": [
+      "https://img.freepik.com/premium-photo/diamond-jewelry-luxury-fashion-jewelry_550617-5314.jpg?w=360",
+      "https://img.freepik.com/premium-photo/gold-diamond-jewelry_550617-37675.jpg?w=360"
+    ]
+  }
+]

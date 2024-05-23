@@ -1,0 +1,58 @@
+.container {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: transform 0.5s ease-in-out; /* Define the transition effect */
+  transform: translateY(100%); /* Start position */
+}
+
+.content.open {
+  transform: translateY(90%); /* End position */
+}
+
+.notification-container {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: hidden;
+  transition: height 0.3s ease-in-out;
+  z-index: 10;
+}
+
+.notification {
+  position: relative;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #fff;
+  height: auto;
+  transition: height 0.3s ease-in-out;
+  animation: slide-down 0.3s ease-in-out;
+}
+
+.notification-visible {
+  animation: slide-up 0.3s ease-in-out;
+}
+
+@keyframes slide-down {
+  from {
+    transform: translateY(0%);
+  }
+  to {
+    transform: translateY(-100%);
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0%);
+  }
+}

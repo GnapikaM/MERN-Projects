@@ -1,6 +1,7 @@
 import React from "react";
 import { useTheme } from "../Theme/ThemeContext";
 import { groupPhoto, groupPhoto1 } from "../../../assets/images";
+import { ScrollToTop } from "../HomePage/Components";
 
 const About = () => {
   const { theme } = useTheme();
@@ -13,6 +14,7 @@ const About = () => {
         minHeight: "100vh",
       }}
     >
+      <ScrollToTop />
       <div className="pt-32 pb-16 pl-10 font-bold text-3xl sm:text-4xl tracking-[2px] max-lg:pb-8 max-[550px]:pt-36 max-[550px]:pl-4">
         <span style={{ color: `var(--highlight-color)` }}>Home</span> / About
       </div>

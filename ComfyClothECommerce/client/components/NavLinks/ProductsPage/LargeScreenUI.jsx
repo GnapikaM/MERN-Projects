@@ -3,6 +3,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { productCategories, productColors, productDiscounts, sortByOptions } from "../../../constants/index.js";
 import { PriceRange, ResetButton, SearchButton, ViewStyle, DisplayGridProducts } from "./Componets";
 import { useProductsContext } from "./ProductsContext";
+import { ScrollToTop } from "../HomePage/Components.jsx";
 
 const LargeScreenUI = () => {
   const {
@@ -249,6 +250,7 @@ const LargeScreenUI = () => {
 
   return (
     <div className="max-lg:hidden">
+      <ScrollToTop />
       <div className="flex">
         <div className="flex-shrink-0 w-1/5 ml-10 mb-5">
           <div className="sticky top-0">

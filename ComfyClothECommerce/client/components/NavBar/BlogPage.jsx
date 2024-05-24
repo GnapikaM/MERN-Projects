@@ -1,5 +1,6 @@
 import React from "react";
 import { useTheme } from "../NavLinks/Theme/ThemeContext";
+import { ScrollToTop } from "../NavLinks/HomePage/Components";
 
 const BlogPage = () => {
   const { theme } = useTheme();
@@ -50,6 +51,7 @@ const BlogPage = () => {
         minHeight: "100vh",
       }}
     >
+      <ScrollToTop />
       <div className="pb-8 pt-32 max-[550px]:pt-40 px-4">
         <div className="container mx-auto">
           <h1 className="text-3xl font-bold text-center mb-8">

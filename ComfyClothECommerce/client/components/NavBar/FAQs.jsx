@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BackButton } from "../NavLinks/HomePage/Components";
+import { BackButton, ScrollToTop } from "../NavLinks/HomePage/Components";
 import { useTheme } from "../NavLinks/Theme/ThemeContext";
 
 const faqs = [
@@ -64,6 +64,7 @@ const FAQs = () => {
         minHeight: "100vh",
       }}
     >
+      <ScrollToTop />
       <div className="max-w-3xl mx-auto pb-8 pt-32 max-[550px]:pt-40 max-sm:mx-2">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-3xl font-extrabold tracking-tight mb-8">

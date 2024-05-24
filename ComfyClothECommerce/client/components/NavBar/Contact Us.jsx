@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { addContact } from "../../actions/ContactActions";
 import { useTheme } from "../NavLinks/Theme/ThemeContext";
+import { ScrollToTop } from "../NavLinks/HomePage/Components";
 
 const ContactUs = () => {
   const {
@@ -86,6 +87,7 @@ const ContactUs = () => {
             </div>
           </div>
         )}
+        <ScrollToTop />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2

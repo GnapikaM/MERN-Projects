@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useTheme } from "../NavLinks/Theme/ThemeContext";
+import { ScrollToTop } from "../NavLinks/HomePage/Components";
 
 const CareersPage = () => {
   const { theme } = useTheme();
@@ -13,6 +14,7 @@ const CareersPage = () => {
         minHeight: "100vh",
       }}
     >
+      <ScrollToTop />
       <div className="py-10 pt-32 max-[550px]:pt-36">
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="md:col-span-2 space-y-8">

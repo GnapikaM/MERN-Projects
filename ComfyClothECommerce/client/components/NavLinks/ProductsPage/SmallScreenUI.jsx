@@ -16,6 +16,7 @@ import {
 } from "../../../constants";
 import { useProductsContext } from "./ProductsContext";
 import { useNavigate, useLocation } from "react-router-dom";
+import { ScrollToTop } from "../HomePage/Components";
 
 const SmallScreenUI = () => {
   const { theme } = useTheme();
@@ -319,6 +320,7 @@ const SmallScreenUI = () => {
       className="lg:hidden"
       style={{ backgroundColor: `var(--body-bg-color)` }}
     >
+      <ScrollToTop />
       <div className="flex flex-col h-full">
         <div>
           <div>{handleBottomNavBar()}</div>

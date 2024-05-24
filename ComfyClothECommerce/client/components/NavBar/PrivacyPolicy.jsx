@@ -1,6 +1,6 @@
 import React from "react";
 import { useTheme } from "../NavLinks/Theme/ThemeContext";
-import { BackButton } from "../NavLinks/HomePage/Components";
+import { BackButton, ScrollToTop } from "../NavLinks/HomePage/Components";
 
 const PrivacyPolicy = () => {
   const { theme } = useTheme();
@@ -15,6 +15,7 @@ const PrivacyPolicy = () => {
         minHeight: "100vh",
       }}
     >
+      <ScrollToTop />
       <div className="pb-8 pt-32 max-[550px]:pt-40">
         <div className="container mx-auto">
           <div className="max-w-3xl mx-auto shadow-md rounded-md p-8">
